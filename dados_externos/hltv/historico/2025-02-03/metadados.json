@@ -1,0 +1,13 @@
+{
+  "data_solicitada": "2025-02-03",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2025/february/3",
+  "coletado_em_utc": "2026-11-17T18:05:08.407281+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "adaptador_sha256": "5c96026cadf7a993fc227182da7e64ed65cc2899b36fa6b48915e937a5dc4fbe",
+  "transporte": "requests sequencial; parser original HltvTop30Spider",
+  "http_status": 200,
+  "html_sha256": "6609dfa608358807ff6076012c66eae07d32d070872a314a3b31f5e5214bf9f2",
+  "status": "conteudo_validado",
+  "data_recebida": "2025-02-03",
+  "equipes": 234
+}

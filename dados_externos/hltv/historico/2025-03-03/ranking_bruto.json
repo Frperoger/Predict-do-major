@@ -1,0 +1,3646 @@
+{
+  "date": "2025-03-03",
+  "prev_ranking": "2025/february/24",
+  "next_ranking": "2025/march/10",
+  "ranking_type": "hltv",
+  "ranking": [
+    {
+      "position": "#1",
+      "name": "Spirit",
+      "id": "7020",
+      "link": "/team/7020/spirit",
+      "logo": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e",
+      "points": "1000",
+      "players": [
+        "chopper",
+        "sh1ro",
+        "magixx",
+        "zont1x",
+        "donk"
+      ]
+    },
+    {
+      "position": "#2",
+      "name": "Vitality",
+      "id": "9565",
+      "link": "/team/9565/vitality",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02",
+      "points": "663",
+      "players": [
+        "apEX",
+        "ropz",
+        "ZywOo",
+        "flameZ",
+        "mezii"
+      ]
+    },
+    {
+      "position": "#3",
+      "name": "Natus Vincere",
+      "id": "4608",
+      "link": "/team/4608/natus-vincere",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+      "points": "587",
+      "players": [
+        "Aleksib",
+        "iM",
+        "b1t",
+        "jL",
+        "w0nderful"
+      ]
+    },
+    {
+      "position": "#4",
+      "name": "Eternal Fire",
+      "id": "11251",
+      "link": "/team/11251/eternal-fire",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198",
+      "points": "537",
+      "players": [
+        "MAJ3R",
+        "XANTARES",
+        "woxic",
+        "Wicadia",
+        "jottAAA"
+      ]
+    },
+    {
+      "position": "#5",
+      "name": "G2",
+      "id": "5995",
+      "link": "/team/5995/g2",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+      "points": "434",
+      "players": [
+        "Snax",
+        "huNter-",
+        "malbsMd",
+        "m0NESY",
+        "HeavyGod"
+      ]
+    },
+    {
+      "position": "#6",
+      "name": "FaZe",
+      "id": "6667",
+      "link": "/team/6667/faze",
+      "logo": "https://img-cdn.hltv.org/teamlogo/66pHABGIztb3uoDAU18k76.png?ixlib=java-2.1.0&w=50&s=1aeaeb52d80c1f20afe885e4ddd5896c",
+      "points": "428",
+      "players": [
+        "karrigan",
+        "rain",
+        "EliGE",
+        "frozen",
+        "broky"
+      ]
+    },
+    {
+      "position": "#7",
+      "name": "The MongolZ",
+      "id": "6248",
+      "link": "/team/6248/the-mongolz",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d",
+      "points": "407",
+      "players": [
+        "bLitz",
+        "Techno",
+        "Senzu",
+        "mzinho",
+        "910"
+      ]
+    },
+    {
+      "position": "#8",
+      "name": "MOUZ",
+      "id": "4494",
+      "link": "/team/4494/mouz",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c",
+      "points": "363",
+      "players": [
+        "Brollan",
+        "torzsi",
+        "Spinx",
+        "Jimpphat",
+        "xertioN"
+      ]
+    },
+    {
+      "position": "#9",
+      "name": "Falcons",
+      "id": "11283",
+      "link": "/team/11283/falcons",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef",
+      "points": "276",
+      "players": [
+        "NiKo",
+        "Magisk",
+        "TeSeS",
+        "degster",
+        "kyxsan"
+      ]
+    },
+    {
+      "position": "#10",
+      "name": "Virtus.pro",
+      "id": "5378",
+      "link": "/team/5378/virtuspro",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+      "points": "258",
+      "players": [
+        "electroNic",
+        "FL1T",
+        "fame",
+        "FL4MUS",
+        "ICY"
+      ]
+    },
+    {
+      "position": "#11",
+      "name": "Astralis",
+      "id": "6665",
+      "link": "/team/6665/astralis",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+      "points": "255",
+      "players": [
+        "device",
+        "cadiaN",
+        "stavn",
+        "jabbi",
+        "Staehr"
+      ]
+    },
+    {
+      "position": "#12",
+      "name": "Liquid",
+      "id": "5973",
+      "link": "/team/5973/liquid",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+      "points": "211",
+      "players": [
+        "jks",
+        "NAF",
+        "NertZ",
+        "Twistzz",
+        "ultimate"
+      ]
+    },
+    {
+      "position": "#13",
+      "name": "paiN",
+      "id": "4773",
+      "link": "/team/4773/pain",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iUUCFwCOFmOrwhB8q8smMg.svg?ixlib=java-2.1.0&s=1446e1cf3d02deb8190fe6efd14e4ce4",
+      "points": "206",
+      "players": [
+        "biguzera",
+        "dav1deuS",
+        "nqz",
+        "kauez",
+        "snow"
+      ]
+    },
+    {
+      "position": "#14",
+      "name": "GamerLegion",
+      "id": "9928",
+      "link": "/team/9928/gamerlegion",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jS__cj2F09Bl8qBU_CvkQR.png?ixlib=java-2.1.0&w=50&s=11e6eacde0fea931c65c2437b1568027",
+      "points": "194",
+      "players": [
+        "REZ",
+        "ztr",
+        "Tauson",
+        "sl3nd",
+        "PR"
+      ]
+    },
+    {
+      "position": "#15",
+      "name": "FURIA",
+      "id": "8297",
+      "link": "/team/8297/furia",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+      "points": "159",
+      "players": [
+        "FalleN",
+        "chelo",
+        "yuurih",
+        "KSCERATO",
+        "skullz"
+      ]
+    },
+    {
+      "position": "#16",
+      "name": "3DMAX",
+      "id": "4914",
+      "link": "/team/4914/3dmax",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QGPDS3Z2-aMXwCYVgA4RWH.png?ixlib=java-2.1.0&w=50&s=ec528d7e9d0f9b6b4bac227901fb1590",
+      "points": "153",
+      "players": [
+        "bodyy",
+        "Maka",
+        "Lucky",
+        "Ex3rcice",
+        "Graviti"
+      ]
+    },
+    {
+      "position": "#17",
+      "name": "HEROIC",
+      "id": "7175",
+      "link": "/team/7175/heroic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f",
+      "points": "119",
+      "players": [
+        "SunPayus",
+        "xfl0ud",
+        "LNZ",
+        "tN1R",
+        "yxngstxr"
+      ]
+    },
+    {
+      "position": "#18",
+      "name": "BIG",
+      "id": "7532",
+      "link": "/team/7532/big",
+      "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+      "points": "113",
+      "players": [
+        "tabseN",
+        "JDC",
+        "Krimbo",
+        "kyuubii",
+        "hyped"
+      ]
+    },
+    {
+      "position": "#19",
+      "name": "MIBR",
+      "id": "9215",
+      "link": "/team/9215/mibr",
+      "logo": "https://img-cdn.hltv.org/teamlogo/sVnH-oAf1J5TnMwoY4cxUC.png?ixlib=java-2.1.0&w=50&s=b0ef463fa0f1638bce72a89590fbaddf",
+      "points": "103",
+      "players": [
+        "exit",
+        "Lucaozy",
+        "saffee",
+        "brnz4n",
+        "insani"
+      ]
+    },
+    {
+      "position": "#20",
+      "name": "BETBOOM",
+      "id": "12394",
+      "link": "/team/12394/betboom",
+      "logo": "https://img-cdn.hltv.org/teamlogo/G4ZrdB0-q41USPd_z27IQA.png?ixlib=java-2.1.0&w=50&s=9c15ddf70f9c66399d4a47e0d8e93511",
+      "points": "90",
+      "players": [
+        "Boombl4",
+        "zorte",
+        "Ax1Le",
+        "S1ren",
+        "Magnojez"
+      ]
+    },
+    {
+      "position": "#21",
+      "name": "SAW",
+      "id": "10567",
+      "link": "/team/10567/saw",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1",
+      "points": "86",
+      "players": [
+        "MUTiRiS",
+        "story",
+        "Ag1l",
+        "AZUWU",
+        "cej0t"
+      ]
+    },
+    {
+      "position": "#22",
+      "name": "Wildcard",
+      "id": "12257",
+      "link": "/team/12257/wildcard",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb",
+      "points": "81",
+      "players": [
+        "stanislaw",
+        "Sonic",
+        "phzy",
+        "susp",
+        "JBa"
+      ]
+    },
+    {
+      "position": "#23",
+      "name": "M80",
+      "id": "12376",
+      "link": "/team/12376/m80",
+      "logo": "https://img-cdn.hltv.org/teamlogo/U6ziW17pgYxsxR_WQJ_9-V.png?ixlib=java-2.1.0&w=50&s=c26471695a9e28f1c08dd5cf856ecb55",
+      "points": "69",
+      "players": [
+        "slaxz-",
+        "Swisher",
+        "reck",
+        "s1n",
+        "Lake"
+      ]
+    },
+    {
+      "position": "#24",
+      "name": "FlyQuest",
+      "id": "12774",
+      "link": "/team/12774/flyquest",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fmqTgF6Ziw0uied7MO3_ri.png?ixlib=java-2.1.0&w=50&s=255b5a4c460ad03161509ff7eb77b2dc",
+      "points": "60",
+      "players": [
+        "dexter",
+        "Liazz",
+        "INS",
+        "Vexite",
+        "regali"
+      ]
+    },
+    {
+      "position": "#25",
+      "name": "TYLOO",
+      "id": "4863",
+      "link": "/team/4863/tyloo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hMPKtNMDxp07n3lrBEHCuq.svg?ixlib=java-2.1.0&s=6d22fc4af07d0cd9d31fcd7f3023af9a",
+      "points": "54",
+      "players": [
+        "Attacker",
+        "JamYoung",
+        "Jee",
+        "Mercury",
+        "Moseyuh"
+      ]
+    },
+    {
+      "position": "#26",
+      "name": "B8",
+      "id": "11241",
+      "link": "/team/11241/b8",
+      "logo": "https://img-cdn.hltv.org/teamlogo/O6nRWTCjUzBAR4pcOcrpSG.png?ixlib=java-2.1.0&w=50&s=305dde82e764725dab7e626800328137",
+      "points": "50",
+      "players": [
+        "headtr1ck",
+        "alex666",
+        "npl",
+        "kensizor",
+        "esenthial"
+      ]
+    },
+    {
+      "position": "#27",
+      "name": "Complexity",
+      "id": "5005",
+      "link": "/team/5005/complexity",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mYH7ldcjUjr02R21SLk_pE.png?ixlib=java-2.1.0&w=50&s=32d8d589138305e40137163405e3d598",
+      "points": "48",
+      "players": [
+        "JT",
+        "hallzerk",
+        "Grim",
+        "Cxzi",
+        "nicx"
+      ]
+    },
+    {
+      "position": "#28",
+      "name": "500",
+      "id": "12000",
+      "link": "/team/12000/500",
+      "logo": "https://img-cdn.hltv.org/teamlogo/UZcbniXlu7tn7zLQfZS9tW.png?ixlib=java-2.1.0&w=50&s=34e3f2195cb2ac47873bd7f45655c683",
+      "points": "43",
+      "players": [
+        "SPELLAN",
+        "CeRq",
+        "SHiPZ",
+        "Rainwaker",
+        "oxygeN"
+      ]
+    },
+    {
+      "position": "#29",
+      "name": "Imperial",
+      "id": "9455",
+      "link": "/team/9455/imperial",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WF5P55R5fxcmhoew6vHZQr.png?ixlib=java-2.1.0&w=50&s=ecc0a33173ed783477ab8be4cfa6e215",
+      "points": "43",
+      "players": [
+        "VINI",
+        "try",
+        "chayJESUS",
+        "decenty",
+        "noway"
+      ]
+    },
+    {
+      "position": "#30",
+      "name": "PARIVISION",
+      "id": "12467",
+      "link": "/team/12467/parivision",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6LmMX-SC5VWhlmfE3UO0CB.png?ixlib=java-2.1.0&w=50&s=7769d3dec7b4a737379fcfd760269595",
+      "points": "43",
+      "players": [
+        "Qikert",
+        "Jame",
+        "TRAVIS",
+        "BELCHONOKK",
+        "nota"
+      ]
+    },
+    {
+      "position": "#31",
+      "name": "Lynn Vision",
+      "id": "8840",
+      "link": "/team/8840/lynn-vision",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vO_s8NWgDhLzqFsj6p9xTt.png?ixlib=java-2.1.0&w=50&s=1fd5c4b19dd9d173c7d1981614ba0094",
+      "points": "35",
+      "players": [
+        "Westmelon",
+        "z4KR",
+        "Starry",
+        "EmiliaQAQ",
+        "C4LLM3SU3"
+      ]
+    },
+    {
+      "position": "#32",
+      "name": "BC.Game",
+      "id": "12878",
+      "link": "/team/12878/bcgame",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hitfpPKb6AhohmdksVpY3s.png?ixlib=java-2.1.0&w=50&s=0ba030a2dc4c1a0d2382447661b0c376",
+      "points": "35",
+      "players": [
+        "jkaem",
+        "nexa",
+        "nawwk",
+        "CYPHER",
+        "pr1metapz"
+      ]
+    },
+    {
+      "position": "#33",
+      "name": "Rare Atom",
+      "id": "11514",
+      "link": "/team/11514/rare-atom",
+      "logo": "https://img-cdn.hltv.org/teamlogo/CH9I3Xh0tW94uEN1BMe9Pu.png?ixlib=java-2.1.0&w=50&s=fda7c0e83d4889a4164b99316b8f358f",
+      "points": "33",
+      "players": [
+        "Summer",
+        "somebody",
+        "kaze",
+        "ChildKing",
+        "L1haNg"
+      ]
+    },
+    {
+      "position": "#34",
+      "name": "NRG",
+      "id": "6673",
+      "link": "/team/6673/nrg",
+      "logo": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc",
+      "points": "31",
+      "players": [
+        "nitr0",
+        "oSee",
+        "br0",
+        "HexT",
+        "Jeorge"
+      ]
+    },
+    {
+      "position": "#35",
+      "name": "Spirit Academy",
+      "id": "7900",
+      "link": "/team/7900/spirit-academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2",
+      "points": "31",
+      "players": [
+        "robo",
+        "syph0",
+        "Alkaren",
+        "Mokuj1n",
+        "kyousuke"
+      ]
+    },
+    {
+      "position": "#36",
+      "name": "BLUEJAYS",
+      "id": "5347",
+      "link": "/team/5347/bluejays",
+      "logo": "https://img-cdn.hltv.org/teamlogo/g1gnqFhoa0FrcbRHXRAToF.png?ixlib=java-2.1.0&w=50&s=54d3d3762492bd158c053de080910c5f",
+      "points": "30",
+      "players": [
+        "Wolffe",
+        "freshie",
+        "Fruitcupx",
+        "SLIGHT",
+        "snav"
+      ]
+    },
+    {
+      "position": "#37",
+      "name": "ATOX",
+      "id": "12312",
+      "link": "/team/12312/atox",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AYB9kpaAt4S3YY4xCaoI_D.png?ixlib=java-2.1.0&w=50&s=aee387925cc012718e824229a8af882d",
+      "points": "30",
+      "players": [
+        "dobu",
+        "kabal",
+        "MiQ",
+        "AccuracyTG",
+        "Zesta"
+      ]
+    },
+    {
+      "position": "#38",
+      "name": "Nemiga",
+      "id": "7969",
+      "link": "/team/7969/nemiga",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=50&s=daa0328ebd0143763544b564610721e9",
+      "points": "30",
+      "players": [
+        "Xant3r",
+        "1eeR",
+        "riskyb0b",
+        "khaN",
+        "zweih"
+      ]
+    },
+    {
+      "position": "#39",
+      "name": "fnatic",
+      "id": "4991",
+      "link": "/team/4991/fnatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e",
+      "points": "25",
+      "players": [
+        "KRIMZ",
+        "blameF",
+        "fEAR",
+        "MATYS",
+        "Burmylov"
+      ]
+    },
+    {
+      "position": "#40",
+      "name": "Legacy",
+      "id": "12468",
+      "link": "/team/12468/legacy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745",
+      "points": "25",
+      "players": [
+        "dumau",
+        "latto",
+        "n1ssim",
+        "lux",
+        "saadzin"
+      ]
+    },
+    {
+      "position": "#41",
+      "name": "CYBERSHOKE",
+      "id": "12380",
+      "link": "/team/12380/cybershoke",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gzn14uIQ6ENslja9hMqnkj.png?ixlib=java-2.1.0&w=50&s=0bea5f061e9130561d93b89834624603",
+      "points": "24",
+      "players": [
+        "glowiing",
+        "lov1kus",
+        "notineki",
+        "bl1x1",
+        "FenomeN"
+      ]
+    },
+    {
+      "position": "#42",
+      "name": "Aurora",
+      "id": "11861",
+      "link": "/team/11861/aurora",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Tn34gRpdxo9yhixcQSnpMP.png?ixlib=java-2.1.0&w=50&s=605651da6b0b6984f348584fec6c0710",
+      "points": "24",
+      "players": [
+        "clax",
+        "KENSI",
+        "Patsi",
+        "Norwi",
+        "gr1ks"
+      ]
+    },
+    {
+      "position": "#43",
+      "name": "ENCE",
+      "id": "4869",
+      "link": "/team/4869/ence",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8",
+      "points": "24",
+      "players": [
+        "gla1ve",
+        "sdy",
+        "podi",
+        "Neityu",
+        "xKacpersky"
+      ]
+    },
+    {
+      "position": "#44",
+      "name": "OG",
+      "id": "10503",
+      "link": "/team/10503/og",
+      "logo": "https://img-cdn.hltv.org/teamlogo/VZHA__RIJY6gisB-l6HfiO.png?ixlib=java-2.1.0&w=50&s=978f70078a418cf82dff8a162b180731",
+      "points": "24",
+      "players": [
+        "F1KU",
+        "spooke",
+        "Buzz",
+        "Chr1zN"
+      ]
+    },
+    {
+      "position": "#45",
+      "name": "Marsborne",
+      "id": "13124",
+      "link": "/team/13124/marsborne",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Hn3L2Jmv-sIiS2ouPBRt4E.png?ixlib=java-2.1.0&w=50&s=cfa34d37e33e8f1e8fb2199939c7230f",
+      "points": "23",
+      "players": [
+        "WolfY",
+        "motm",
+        "Minus",
+        "chop",
+        "Grizz"
+      ]
+    },
+    {
+      "position": "#46",
+      "name": "Sharks",
+      "id": "8113",
+      "link": "/team/8113/sharks",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xduTwTuydAWc0Dbt-eEjeH.png?ixlib=java-2.1.0&w=50&s=16cdced9e9b1a2b2e771157638f39391",
+      "points": "23",
+      "players": [
+        "gafolo",
+        "koala",
+        "rdnzao",
+        "doc",
+        "n1cks"
+      ]
+    },
+    {
+      "position": "#47",
+      "name": "CPH Wolves",
+      "id": "4548",
+      "link": "/team/4548/cph-wolves",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YAkfXXu_VhFVsOoATpff0A.svg?ixlib=java-2.1.0&s=5803a5e72e30b6ab7a46588ea6d17778",
+      "points": "23",
+      "players": [
+        "Jackinho",
+        "szejn",
+        "b1elany",
+        "aNdu",
+        "Tapewaare"
+      ]
+    },
+    {
+      "position": "#48",
+      "name": "Zero Tenacity",
+      "id": "11523",
+      "link": "/team/11523/zero-tenacity",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5RRO6-Yzo13W3OjXINCQEJ.png?ixlib=java-2.1.0&w=50&s=c7d19d01153c3bff329a5b5a4fdd05e1",
+      "points": "22",
+      "players": [
+        "aVN",
+        "nEMANHA",
+        "Cjoffo",
+        "brutmonster",
+        "simke"
+      ]
+    },
+    {
+      "position": "#49",
+      "name": "Passion UA",
+      "id": "12426",
+      "link": "/team/12426/passion-ua",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hg5jCb7ksX_OgKGNq3ZA_2.png?ixlib=java-2.1.0&w=50&s=2253ad043dcea2ee3753a60a88a2f732",
+      "points": "22",
+      "players": [
+        "Topa",
+        "Kvem",
+        "jambo",
+        "jackasmo",
+        "zeRRoFIX"
+      ]
+    },
+    {
+      "position": "#50",
+      "name": "NAVI Junior",
+      "id": "10371",
+      "link": "/team/10371/navi-junior",
+      "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809",
+      "points": "22",
+      "players": [
+        "dem0n",
+        "Krabeni",
+        "makazze",
+        "cmtry",
+        "dziugss"
+      ]
+    },
+    {
+      "position": "#51",
+      "name": "SINNERS",
+      "id": "10577",
+      "link": "/team/10577/sinners",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed",
+      "points": "22",
+      "players": [
+        "ZEDKO",
+        "beastik",
+        "SHOCK",
+        "MoriiSko",
+        "Pepo"
+      ]
+    },
+    {
+      "position": "#52",
+      "name": "Getting Info",
+      "id": "13106",
+      "link": "/team/13106/getting-info",
+      "logo": "/dynamic-svg/teamplaceholder?letter=G",
+      "points": "22",
+      "players": [
+        "MarKE",
+        "nosraC",
+        "dare",
+        "dea"
+      ]
+    },
+    {
+      "position": "#53",
+      "name": "Imperial Valkyries",
+      "id": "12828",
+      "link": "/team/12828/imperial-valkyries",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Hc-AMHZB9eKXBOJwtNvazg.png?ixlib=java-2.1.0&w=50&s=3878edba54104c915d0b7d2dd8256a39",
+      "points": "21",
+      "players": [
+        "zAAz",
+        "ANa",
+        "tory",
+        "twenty3",
+        "Kat"
+      ]
+    },
+    {
+      "position": "#54",
+      "name": "Fire Flux",
+      "id": "12960",
+      "link": "/team/12960/fire-flux",
+      "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825",
+      "points": "21",
+      "players": [
+        "ScrunK",
+        "paz",
+        "S3NSEY",
+        "Banjo",
+        "soulfly"
+      ]
+    },
+    {
+      "position": "#55",
+      "name": "The Huns",
+      "id": "12510",
+      "link": "/team/12510/the-huns",
+      "logo": "https://img-cdn.hltv.org/teamlogo/fYyelkNe_vthRjX-KjR-BV.png?ixlib=java-2.1.0&w=50&s=9a4367b654013567e9def76fbedca23d",
+      "points": "21",
+      "players": [
+        "nin9",
+        "Bart4k",
+        "xerolte",
+        "Veccil",
+        "cobrazera"
+      ]
+    },
+    {
+      "position": "#56",
+      "name": "Monte",
+      "id": "11811",
+      "link": "/team/11811/monte",
+      "logo": "https://img-cdn.hltv.org/teamlogo/2tc9n4fHkiRIX2FiJSkhgt.png?ixlib=java-2.1.0&w=50&s=7334ef0dd24ba5349b404dfd0e8c6148",
+      "points": "20",
+      "players": [
+        "hades",
+        "DemQQ",
+        "leen",
+        "ryu",
+        "Gizmy"
+      ]
+    },
+    {
+      "position": "#57",
+      "name": "9 Pandas",
+      "id": "11883",
+      "link": "/team/11883/9-pandas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/u4ZlTBpqD-bXOZRqxYY385.png?ixlib=java-2.1.0&w=50&s=38f37be55f5116fd1b09664a7547042d",
+      "points": "20",
+      "players": [
+        "Krad",
+        "shalfey",
+        "d1Ledez",
+        "r3salt",
+        "Alv"
+      ]
+    },
+    {
+      "position": "#58",
+      "name": "Solid",
+      "id": "12233",
+      "link": "/team/12233/solid",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_cLGeqI_Tcxj3tdXw2dq8z.png?ixlib=java-2.1.0&w=50&s=613f0767827df7f6613b494a8fecc5fa",
+      "points": "20",
+      "players": [
+        "destiny",
+        "drg",
+        "nython",
+        "gbb",
+        "tomate"
+      ]
+    },
+    {
+      "position": "#59",
+      "name": "FAVBET",
+      "id": "12818",
+      "link": "/team/12818/favbet",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4on2ywp0wcfk7vjUN3OjZk.png?ixlib=java-2.1.0&w=50&s=2bac9b7a976663386b297e8e5732c25e",
+      "points": "20",
+      "players": [
+        "bondik",
+        "Smash",
+        "Marix",
+        "j3kie",
+        "t3ns1on"
+      ]
+    },
+    {
+      "position": "#60",
+      "name": "Partizan",
+      "id": "11838",
+      "link": "/team/11838/partizan",
+      "logo": "https://img-cdn.hltv.org/teamlogo/y59RRaQNbpspDdGJoR1Xfr.png?ixlib=java-2.1.0&w=50&s=93d8ebe48627749bc23f35a3702dac70",
+      "points": "19",
+      "players": [
+        "emi",
+        "c0llins",
+        "Kind0",
+        "Dragon",
+        "VLDN"
+      ]
+    },
+    {
+      "position": "#61",
+      "name": "RBLS",
+      "id": "12642",
+      "link": "/team/12642/rbls",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vfupmnriFumqC8u48wFIdm.png?ixlib=java-2.1.0&w=50&s=f88ee3468bbd8661c4d9e40b2eddda29",
+      "points": "19",
+      "players": [
+        "innocent",
+        "Sobol",
+        "tomiko",
+        "flayy",
+        "kisserek"
+      ]
+    },
+    {
+      "position": "#62",
+      "name": "-72c",
+      "id": "12546",
+      "link": "/team/12546/72c",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nK2ArLbaxRsdi4JWbRSY9H.png?ixlib=java-2.1.0&w=50&s=8bd9ca1cee6f03504fc59d3d0a3e0cb1",
+      "points": "19",
+      "players": [
+        "1nhuman",
+        "forzetsky",
+        "borosto",
+        "byek",
+        "spira"
+      ]
+    },
+    {
+      "position": "#63",
+      "name": "Fluxo",
+      "id": "11837",
+      "link": "/team/11837/fluxo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zGveLNj821BCJGMu93qnj-.png?ixlib=java-2.1.0&w=50&s=f7d69ef82fdaf8d8b7f5a1a7fa8f13ed",
+      "points": "18",
+      "players": [
+        "arT",
+        "piriajr",
+        "kye",
+        "history",
+        "nicks"
+      ]
+    },
+    {
+      "position": "#64",
+      "name": "ECSTATIC",
+      "id": "11419",
+      "link": "/team/11419/ecstatic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/yx_pWjWbW-2F5oF5nLHXc8.png?ixlib=java-2.1.0&w=50&s=fd7c45846bfcd3fe64ae4454979dbecd",
+      "points": "17",
+      "players": [
+        "Kristou",
+        "TMB",
+        "Anlelele",
+        "nut nut",
+        "sirah"
+      ]
+    },
+    {
+      "position": "#65",
+      "name": "Sashi",
+      "id": "11712",
+      "link": "/team/11712/sashi",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xa5M31PECYUvHs6wlM9nzM.png?ixlib=java-2.1.0&w=50&s=e3f81637bc8dc9f9e3ab89a0a5c78d7d",
+      "points": "17",
+      "players": [
+        "Lucky",
+        "Altekz",
+        "Cabbi",
+        "IceBerg",
+        "Zyphon"
+      ]
+    },
+    {
+      "position": "#66",
+      "name": "Iberian Soul",
+      "id": "13104",
+      "link": "/team/13104/iberian-soul",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HD2YseMU5u5fOtLMzN4o2i.png?ixlib=java-2.1.0&w=50&s=541c2792dc12ee0ab7c589bb741feed0",
+      "points": "17",
+      "players": [
+        "alex",
+        "mopoz",
+        "stadodo",
+        "sausol",
+        "dav1g"
+      ]
+    },
+    {
+      "position": "#67",
+      "name": "Betera",
+      "id": "12431",
+      "link": "/team/12431/betera",
+      "logo": "https://img-cdn.hltv.org/teamlogo/q20rMYTr6ZbyYr9_8pleJR.png?ixlib=java-2.1.0&w=50&s=eab01cc18be6f1a009178508910d6e84",
+      "points": "17",
+      "players": [
+        "Vert",
+        "h1te",
+        "MaSvAl",
+        "synyx",
+        "tenzy"
+      ]
+    },
+    {
+      "position": "#68",
+      "name": "SemperFi",
+      "id": "12901",
+      "link": "/team/12901/semperfi",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AhNio82uoOBO6dVCMCgDx-.png?ixlib=java-2.1.0&w=50&s=6fccab37a1e276b984b9f63daa2df18e",
+      "points": "17",
+      "players": [
+        "keen",
+        "Valiance",
+        "shadiy",
+        "SaVage",
+        "vision"
+      ]
+    },
+    {
+      "position": "#69",
+      "name": "Chinggis Warriors",
+      "id": "12646",
+      "link": "/team/12646/chinggis-warriors",
+      "logo": "https://img-cdn.hltv.org/teamlogo/esvV905BqvAKUUPLq8e89T.png?ixlib=java-2.1.0&w=50&s=dd947742be3993f7b235cd1928ab078e",
+      "points": "17",
+      "players": [
+        "NEUZ",
+        "ROUX",
+        "ariucle",
+        "controlez",
+        "Efire"
+      ]
+    },
+    {
+      "position": "#70",
+      "name": "Nouns",
+      "id": "11948",
+      "link": "/team/11948/nouns",
+      "logo": "https://img-cdn.hltv.org/teamlogo/hZai-tlfz3XBR5AAiF2w3D.png?ixlib=java-2.1.0&w=50&s=c264e2bae3dc8bac05016dcf8fb8dc72",
+      "points": "17",
+      "players": [
+        "RUSH",
+        "junior",
+        "Cryptic",
+        "Peeping"
+      ]
+    },
+    {
+      "position": "#71",
+      "name": "ARCRED",
+      "id": "10459",
+      "link": "/team/10459/arcred",
+      "logo": "https://img-cdn.hltv.org/teamlogo/FkqmKLoI7VzD95HuCu36rp.png?ixlib=java-2.1.0&w=50&s=a939e8537e182dc2a7493840443ec227",
+      "points": "17",
+      "players": [
+        "DSSj",
+        "Get_Jeka",
+        "Ryujin",
+        "shg",
+        "1NVISIBLEE"
+      ]
+    },
+    {
+      "position": "#72",
+      "name": "RUSH B",
+      "id": "12559",
+      "link": "/team/12559/rush-b",
+      "logo": "https://img-cdn.hltv.org/teamlogo/CNVXswUtqWrnbx-ldvm527.svg?ixlib=java-2.1.0&s=8e2279b633a709c0dc12a9436dd6d913",
+      "points": "16",
+      "players": [
+        "kinqie",
+        "KIRO",
+        "z1Nny",
+        "executor",
+        "tex1y"
+      ]
+    },
+    {
+      "position": "#73",
+      "name": "Hesta",
+      "id": "13153",
+      "link": "/team/13153/hesta",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5LSor7hAMSlJE9kDz_Nh24.png?ixlib=java-2.1.0&w=50&s=b3425e5310015e4427e00a03a02859db",
+      "points": "16",
+      "players": [
+        "abiraju",
+        "anttzz",
+        "Muk0s",
+        "frontales",
+        "slaxejezzz"
+      ]
+    },
+    {
+      "position": "#74",
+      "name": "Chill Guys",
+      "id": "13110",
+      "link": "/team/13110/chill-guys",
+      "logo": "/dynamic-svg/teamplaceholder?letter=C",
+      "points": "16",
+      "players": [
+        "MERL",
+        "MagiC",
+        "TABEN",
+        "NIGHT666LADE",
+        "Evan"
+      ]
+    },
+    {
+      "position": "#75",
+      "name": "ODDIK",
+      "id": "11768",
+      "link": "/team/11768/oddik",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vpWs2bh24DJ8mqXotmXCJM.png?ixlib=java-2.1.0&w=50&s=415cf2a5a2ef2c318943b5bc53b38681",
+      "points": "16",
+      "players": [
+        "WOOD7",
+        "pancc",
+        "naitte",
+        "matios",
+        "Ceruttera"
+      ]
+    },
+    {
+      "position": "#76",
+      "name": "Ninjas in Pyjamas",
+      "id": "4411",
+      "link": "/team/4411/ninjas-in-pyjamas",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+      "points": "15",
+      "players": [
+        "Snappi",
+        "sjuush",
+        "r1nkle",
+        "ewjerkz",
+        "arrozdoce"
+      ]
+    },
+    {
+      "position": "#77",
+      "name": "ECLOT",
+      "id": "7441",
+      "link": "/team/7441/eclot",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_hHH1jUhX-4DfQpnVo6Gv-.png?ixlib=java-2.1.0&w=50&s=2c4728b37003e75e724612383c869247",
+      "points": "15",
+      "players": [
+        "The eLiVe",
+        "forsyy",
+        "nbqq",
+        "Dytor",
+        "M1key"
+      ]
+    },
+    {
+      "position": "#78",
+      "name": "9INE",
+      "id": "10278",
+      "link": "/team/10278/9ine",
+      "logo": "https://img-cdn.hltv.org/teamlogo/BGC4LXlC8s4W0xWyelk2BI.png?ixlib=java-2.1.0&w=50&s=9b131e9589738e2c66ad28f1c1ed1d4b",
+      "points": "15",
+      "players": [
+        "raalz",
+        "mantuu",
+        "faveN",
+        "kraghen",
+        "bobeksde"
+      ]
+    },
+    {
+      "position": "#79",
+      "name": "Betclic",
+      "id": "12916",
+      "link": "/team/12916/betclic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iX5wi-ZLkdHTARnXcMEvZF.png?ixlib=java-2.1.0&w=50&s=d543c7f38ede96ef911a66c407b6b6cd",
+      "points": "15",
+      "players": [
+        "Demho",
+        "Prism",
+        "jcobbb",
+        "hfah",
+        "hypex"
+      ]
+    },
+    {
+      "position": "#80",
+      "name": "Al-Ittihad",
+      "id": "12958",
+      "link": "/team/12958/al-ittihad",
+      "logo": "/dynamic-svg/teamplaceholder?letter=A",
+      "points": "15",
+      "players": [
+        "Remind",
+        "dodZ",
+        "0scar",
+        "Lambdacore",
+        "0SAMAS"
+      ]
+    },
+    {
+      "position": "#81",
+      "name": "BESTIA",
+      "id": "12144",
+      "link": "/team/12144/bestia",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Z_R5K__qrvHmPjF66iCay-.png?ixlib=java-2.1.0&w=50&s=7e2afd72c2b3cabf53244ed6bc5142e3",
+      "points": "15",
+      "players": [
+        "Noktse",
+        "leo_drk",
+        "cass1n",
+        "luchov",
+        "tomaszin"
+      ]
+    },
+    {
+      "position": "#82",
+      "name": "Party Astronauts",
+      "id": "8038",
+      "link": "/team/8038/party-astronauts",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5u8WkSr7yNWGWTNAfbEYjD.png?ixlib=java-2.1.0&w=50&s=6d1141a37578edbb5ed61cf53c28832b",
+      "points": "14",
+      "players": [
+        "ben1337",
+        "FaNg",
+        "viz",
+        "d4rty",
+        "ogwizard"
+      ]
+    },
+    {
+      "position": "#83",
+      "name": "RED Canids",
+      "id": "7176",
+      "link": "/team/7176/red-canids",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Lyr7VJ-litGOwnRBu_8K5q.png?ixlib=java-2.1.0&w=50&s=4beac26b74d83ad2b1753ba2c5cb575d",
+      "points": "14",
+      "players": [
+        "HEN1",
+        "coldzera",
+        "felps",
+        "venomzera",
+        "nyezin"
+      ]
+    },
+    {
+      "position": "#84",
+      "name": "AMKAL",
+      "id": "12586",
+      "link": "/team/12586/amkal",
+      "logo": "https://img-cdn.hltv.org/teamlogo/KNl9ZeR2afmpj3-J0fSilz.png?ixlib=java-2.1.0&w=50&s=35d5b38f7bec78b3099a6d46741fb9e0",
+      "points": "14",
+      "players": [
+        "sm3t",
+        "kAlash",
+        "sFade8",
+        "AW",
+        "molodoy"
+      ]
+    },
+    {
+      "position": "#85",
+      "name": "GUN5",
+      "id": "12471",
+      "link": "/team/12471/gun5",
+      "logo": "https://img-cdn.hltv.org/teamlogo/h7rPBXKkg9rmhbeBVmRG28.png?ixlib=java-2.1.0&w=50&s=691011f74dd8f8a8786a142b7b2b8c8e",
+      "points": "14",
+      "players": [
+        "Lack1",
+        "SELLTER",
+        "xiELO",
+        "Sdaim",
+        "fineshine52"
+      ]
+    },
+    {
+      "position": "#86",
+      "name": "9z",
+      "id": "9996",
+      "link": "/team/9996/9z",
+      "logo": "https://img-cdn.hltv.org/teamlogo/COZDFWOIm41AT0srqOHFhM.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=b00d55fe74b90f91c5b7e2b58bda5afb",
+      "points": "14",
+      "players": [
+        "max",
+        "Luken",
+        "adamS",
+        "MartinezSa",
+        "HUASOPEEK"
+      ]
+    },
+    {
+      "position": "#87",
+      "name": "Alliance",
+      "id": "12474",
+      "link": "/team/12474/alliance",
+      "logo": "https://img-cdn.hltv.org/teamlogo/xsWK0BtR26rN776qdnWFC1.png?ixlib=java-2.1.0&w=50&s=4aaf659c3855ebf08c78c157a0653352",
+      "points": "14",
+      "players": [
+        "twist",
+        "PlesseN",
+        "eraa",
+        "upE",
+        "avid"
+      ]
+    },
+    {
+      "position": "#88",
+      "name": "NEVERMORE",
+      "id": "13157",
+      "link": "/team/13157/nevermore",
+      "logo": "/dynamic-svg/teamplaceholder?letter=N",
+      "points": "13",
+      "players": [
+        "MUV",
+        "neiter",
+        "doni",
+        "hodix",
+        "jackast"
+      ]
+    },
+    {
+      "position": "#89",
+      "name": "Metizport",
+      "id": "11641",
+      "link": "/team/11641/metizport",
+      "logo": "https://img-cdn.hltv.org/teamlogo/uHxM4VRz0qIDKVsckVrbjv.png?ixlib=java-2.1.0&w=50&s=0d1acf7c8552e92196be1d4a2106f9ee",
+      "points": "13",
+      "players": [
+        "hampus",
+        "Plopski",
+        "isak",
+        "adamb",
+        "L00m1"
+      ]
+    },
+    {
+      "position": "#90",
+      "name": "Immigrants peek",
+      "id": "13067",
+      "link": "/team/13067/immigrants-peek",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zUukxvzlQfffS150ydvQDZ.png?ixlib=java-2.1.0&w=50&s=afd455893df7ae1f8776512bde34fab9",
+      "points": "13",
+      "players": [
+        "Termina",
+        "H0NeST",
+        "nico1ajus",
+        "bezymecc",
+        "myline"
+      ]
+    },
+    {
+      "position": "#91",
+      "name": "BASEMENT BOYS",
+      "id": "13181",
+      "link": "/team/13181/basement-boys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IAgnK7oXGijw4nomIKEVIw.png?ixlib=java-2.1.0&w=50&s=b4de8c1c642e9e648d878215fc8ac9ba",
+      "points": "13",
+      "players": [
+        "ERSIN",
+        "Polbandana",
+        "Tr0ublE",
+        "Bambosh",
+        "levantino"
+      ]
+    },
+    {
+      "position": "#92",
+      "name": "Elevate",
+      "id": "5775",
+      "link": "/team/5775/elevate",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ZCQN_X-N9d42E-PKASYvb2.png?ixlib=java-2.1.0&w=50&s=0a59b1684bbae766d2a8c776000a9c99",
+      "points": "13",
+      "players": [
+        "short",
+        "zede",
+        "diozera",
+        "lash",
+        "skr"
+      ]
+    },
+    {
+      "position": "#93",
+      "name": "Housebets",
+      "id": "12921",
+      "link": "/team/12921/housebets",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MiEXvWju-UzF3oAZ79RZ9I.png?ixlib=java-2.1.0&w=50&s=bdbeac701189a235b06a290ef86dea5d",
+      "points": "13",
+      "players": [
+        "BRACE",
+        "apocdud",
+        "yourwombat",
+        "pz",
+        "damyo"
+      ]
+    },
+    {
+      "position": "#94",
+      "name": "UR",
+      "id": "13116",
+      "link": "/team/13116/ur",
+      "logo": "https://img-cdn.hltv.org/teamlogo/iDTnJ3agOs5wtOGQKrXP9L.png?ixlib=java-2.1.0&w=50&s=7f6d3d8446ba8b6ea2a57f3d6d36249d",
+      "points": "13",
+      "players": [
+        "SPine",
+        "rage",
+        "Risk",
+        "Miami",
+        "expSasiKi"
+      ]
+    },
+    {
+      "position": "#95",
+      "name": "Take Flyte",
+      "id": "11660",
+      "link": "/team/11660/take-flyte",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8n-0n4H7i96L0mWDrnbK7N.png?ixlib=java-2.1.0&w=50&s=44b9c0567db3b8b8e7206fd4fa609ec2",
+      "points": "12",
+      "players": [
+        "Sharpie",
+        "REKMEISTER",
+        "Panic",
+        "Crisp",
+        "huncho"
+      ]
+    },
+    {
+      "position": "#96",
+      "name": "Bounty Hunters",
+      "id": "12776",
+      "link": "/team/12776/bounty-hunters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/wJ38S9ZUb82rj8deT4_jqT.png?ixlib=java-2.1.0&w=50&s=b6af112ea7725decdb013a94a3605b39",
+      "points": "12",
+      "players": [
+        "Tuurtle",
+        "meyern",
+        "KAISER",
+        "Bruninho",
+        "zock"
+      ]
+    },
+    {
+      "position": "#97",
+      "name": "kONO",
+      "id": "12858",
+      "link": "/team/12858/kono",
+      "logo": "https://img-cdn.hltv.org/teamlogo/rW5srPjiZnkwa3TlC4vJFi.png?ixlib=java-2.1.0&w=50&s=1b6453d6089b4ea66937a105536973b6",
+      "points": "12",
+      "players": [
+        "cptkurtka023",
+        "s4ltovsk1yy",
+        "amster",
+        "Sijeyy",
+        "zogen"
+      ]
+    },
+    {
+      "position": "#98",
+      "name": "K27",
+      "id": "12895",
+      "link": "/team/12895/k27",
+      "logo": "https://img-cdn.hltv.org/teamlogo/7LmOZHYhlq-fIAm23aM2q1.png?ixlib=java-2.1.0&w=50&s=e194cf9c20b306723ae899eac0e8a356",
+      "points": "12",
+      "players": [
+        "X5G7V",
+        "xeedo",
+        "relaxxie",
+        "kashl1d",
+        "qw1nk1"
+      ]
+    },
+    {
+      "position": "#99",
+      "name": "Gods Reign",
+      "id": "12415",
+      "link": "/team/12415/gods-reign",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8K7vZILhf0BHUAvZrF41Dd.png?ixlib=java-2.1.0&w=50&s=0af35d801062c39208d283c5063dcb26",
+      "points": "12",
+      "players": [
+        "Rossi",
+        "Bhavi",
+        "Ph1NNN",
+        "f1redup",
+        "R2B2"
+      ]
+    },
+    {
+      "position": "#100",
+      "name": "GTZ",
+      "id": "9466",
+      "link": "/team/9466/gtz",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IZC1pzgBnxO-ngz5nENWIZ.png?ixlib=java-2.1.0&w=50&s=422df77daa5d28bb71cad0f0f094c9da",
+      "points": "12",
+      "players": [
+        "NOPEEj",
+        "snapy",
+        "rafaxF",
+        "DDias",
+        "Linko"
+      ]
+    },
+    {
+      "position": "#101",
+      "name": "MIGHT",
+      "id": "12483",
+      "link": "/team/12483/might",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6_0Qb9g4Nx5TvD1vd_y4bv.png?ixlib=java-2.1.0&w=50&s=eda6dd74bda4dfe8ca2b7ed525db0efd",
+      "points": "12",
+      "players": [
+        "djay",
+        "Voltage",
+        "Snakes",
+        "louie",
+        "jared"
+      ]
+    },
+    {
+      "position": "#102",
+      "name": "JiJieHao",
+      "id": "10245",
+      "link": "/team/10245/jijiehao",
+      "logo": "https://img-cdn.hltv.org/teamlogo/prx1bH9kaNUILhY0lElbAV.png?ixlib=java-2.1.0&w=50&s=cc4136def0b0273158d42838a8f233f9",
+      "points": "12",
+      "players": [
+        "Aaron",
+        "dennyslaw",
+        "m1N1",
+        "Bibu",
+        "BOROS"
+      ]
+    },
+    {
+      "position": "#103",
+      "name": "DogEvil",
+      "id": "13148",
+      "link": "/team/13148/dogevil",
+      "logo": "/dynamic-svg/teamplaceholder?letter=D",
+      "points": "11",
+      "players": [
+        "lan",
+        "B1NGO",
+        "Roninbaby",
+        "Tiger",
+        "BZA"
+      ]
+    },
+    {
+      "position": "#104",
+      "name": "LOBOARMY",
+      "id": "13198",
+      "link": "/team/13198/loboarmy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1NYCi5JJtZL0qxUp7dsWdE.png?ixlib=java-2.1.0&w=50&s=e9844448f395de929ce57ba7559c537f",
+      "points": "11",
+      "players": [
+        "zockie",
+        "Slayerhz",
+        "BabyRage",
+        "SJR",
+        "Antuanette"
+      ]
+    },
+    {
+      "position": "#105",
+      "name": "TALON",
+      "id": "8210",
+      "link": "/team/8210/talon",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ifvRlFa3nixjHWegpzK1vU.png?ixlib=java-2.1.0&w=50&s=2f5d5e74e1fa8d8dcc523a53ca888917",
+      "points": "11",
+      "players": [
+        "malta",
+        "sterling",
+        "hazr",
+        "nettik",
+        "ADDICT"
+      ]
+    },
+    {
+      "position": "#106",
+      "name": "adalYamigos",
+      "id": "12544",
+      "link": "/team/12544/adalyamigos",
+      "logo": "/dynamic-svg/teamplaceholder?letter=a",
+      "points": "11",
+      "players": [
+        "SHOOWTiME",
+        "delboNi",
+        "f4stzin",
+        "ckzao"
+      ]
+    },
+    {
+      "position": "#107",
+      "name": "Inner Circle",
+      "id": "13117",
+      "link": "/team/13117/inner-circle",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Qu2AaJ-7YNgr3FaJUMiFFB.png?ixlib=java-2.1.0&w=50&s=311a9f25e79dec4bb41388bb9360b444",
+      "points": "11",
+      "players": [
+        "oskar",
+        "STYKO",
+        "Fessor",
+        "Q-Q",
+        "kRaSnaL"
+      ]
+    },
+    {
+      "position": "#108",
+      "name": "Rooster",
+      "id": "9881",
+      "link": "/team/9881/rooster",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LPjU8AAPrha2zdFvetTTMp.png?ixlib=java-2.1.0&w=50&s=e3db90a303823ddd00ad39fa7b963a8d",
+      "points": "11",
+      "players": [
+        "chelleos",
+        "DannyG",
+        "asap",
+        "TjP",
+        "sliimey"
+      ]
+    },
+    {
+      "position": "#109",
+      "name": "TNL",
+      "id": "12833",
+      "link": "/team/12833/tnl",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9ZE79J_OiY3rP06SGkS7_R.png?ixlib=java-2.1.0&w=50&s=96e93d9e63cb7c702367e5958bb575fe",
+      "points": "11",
+      "players": [
+        "nifee",
+        "Flierax",
+        "onic",
+        "Dawy",
+        "cairne"
+      ]
+    },
+    {
+      "position": "#110",
+      "name": "Tricked",
+      "id": "4602",
+      "link": "/team/4602/tricked",
+      "logo": "https://img-cdn.hltv.org/teamlogo/blNchPRF06sVx4To-LemoY.png?ixlib=java-2.1.0&w=50&s=939b83c622f496db95d11bfd0f85b428",
+      "points": "10",
+      "players": [
+        "Nodios",
+        "valde",
+        "Queenix",
+        "salazar",
+        "leakz"
+      ]
+    },
+    {
+      "position": "#111",
+      "name": "Akimbo",
+      "id": "12567",
+      "link": "/team/12567/akimbo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/aHIz8ksgYCmWSPaOd0Pzo7.png?ixlib=java-2.1.0&w=50&s=c695ca1f100ce57fd0278dac55f119dd",
+      "points": "10",
+      "players": [
+        "consti",
+        "kmrn",
+        "obi",
+        "zy",
+        "laxiee"
+      ]
+    },
+    {
+      "position": "#112",
+      "name": "Eruption",
+      "id": "12097",
+      "link": "/team/12097/eruption",
+      "logo": "https://img-cdn.hltv.org/teamlogo/73cl_gOmhR8_EmrZiaxleY.png?ixlib=java-2.1.0&w=50&s=139a7d4ba1b3bb6c70314f41eb002109",
+      "points": "10",
+      "players": [
+        "sk0R",
+        "MagnumZ",
+        "fury5k",
+        "sideffect",
+        "xenization"
+      ]
+    },
+    {
+      "position": "#113",
+      "name": "Real Original",
+      "id": "13095",
+      "link": "/team/13095/real-original",
+      "logo": "/dynamic-svg/teamplaceholder?letter=R",
+      "points": "10",
+      "players": [
+        "RoLEX",
+        "MAIROLLS",
+        "SeveN89",
+        "Geniuss"
+      ]
+    },
+    {
+      "position": "#114",
+      "name": "Vagrants",
+      "id": "12611",
+      "link": "/team/12611/vagrants",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IeODgzyhfMk8zYAzAcxcNM.png?ixlib=java-2.1.0&w=50&s=54957ce19de3666029b215fd0980c44c",
+      "points": "10",
+      "players": [
+        "brett",
+        "Cyrix",
+        "Seb",
+        "Sandman",
+        "mason"
+      ]
+    },
+    {
+      "position": "#115",
+      "name": "FengDa",
+      "id": "12899",
+      "link": "/team/12899/fengda",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_Q3iz2MJXmpJp9QGv9jWnc.png?ixlib=java-2.1.0&w=50&s=3436ac6e2bc88b6ededfac64ab9bdcd5",
+      "points": "10",
+      "players": [
+        "x9",
+        "chengking",
+        "p5p",
+        "3gl",
+        "jung1e"
+      ]
+    },
+    {
+      "position": "#116",
+      "name": "Johnny Speeds",
+      "id": "12604",
+      "link": "/team/12604/johnny-speeds",
+      "logo": "https://img-cdn.hltv.org/teamlogo/QlTGasGIoptwol2wD0I9cz.png?ixlib=java-2.1.0&w=50&s=5898c32e51f2df929bfd1067dc296e20",
+      "points": "10",
+      "players": [
+        "draken",
+        "Sapec",
+        "SHiNE",
+        "Ro1f",
+        "MaiL09"
+      ]
+    },
+    {
+      "position": "#117",
+      "name": "Preasy",
+      "id": "12334",
+      "link": "/team/12334/preasy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/BG_6qGuQUGGMF5tWKsj8eY.png?ixlib=java-2.1.0&w=50&s=05874ebf165b6f8ce313dbc3e04e5cec",
+      "points": "10",
+      "players": [
+        "AcilioN",
+        "Griller",
+        "Viggo",
+        "Beccie"
+      ]
+    },
+    {
+      "position": "#118",
+      "name": "Mindfreak",
+      "id": "11668",
+      "link": "/team/11668/mindfreak",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JXoqNVZaSa0PHYSnfNeJGO.png?ixlib=java-2.1.0&w=50&s=24a2d2849779f23196e546a6ab58c933",
+      "points": "10",
+      "players": [
+        "tucks",
+        "Texta",
+        "Crunchy",
+        "gump",
+        "pain"
+      ]
+    },
+    {
+      "position": "#119",
+      "name": "GenOne",
+      "id": "11609",
+      "link": "/team/11609/genone",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DlMJrDmPA7qofO3HhP7Tbe.png?ixlib=java-2.1.0&w=50&s=5dedfb534782d2c3e00a5d476fc8fba9",
+      "points": "10",
+      "players": [
+        "JACKZ",
+        "devoduvek",
+        "drac",
+        "Kursy",
+        "Brooxsy"
+      ]
+    },
+    {
+      "position": "#120",
+      "name": "Yawara",
+      "id": "11933",
+      "link": "/team/11933/yawara",
+      "logo": "https://img-cdn.hltv.org/teamlogo/JwKJz_nvCUbB5kvZGK6Ho5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=bb750d9f5993bd3df97cf2a05aeef701",
+      "points": "10",
+      "players": [
+        "j0w",
+        "stax",
+        "revoltz",
+        "tele",
+        "nardes"
+      ]
+    },
+    {
+      "position": "#121",
+      "name": "Insilio",
+      "id": "12124",
+      "link": "/team/12124/insilio",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_xqicJ8DEOBw-M74mVqh2-.png?ixlib=java-2.1.0&w=50&s=298cba09fc03af645dc3b8f151b4f849",
+      "points": "10",
+      "players": [
+        "sugaR",
+        "faydett",
+        "dwushka",
+        "mag1k3Y",
+        "kelieN"
+      ]
+    },
+    {
+      "position": "#122",
+      "name": "Flamengo",
+      "id": "12065",
+      "link": "/team/12065/flamengo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/SU0UNahnVBdNkysv3rDF9S.png?ixlib=java-2.1.0&w=50&s=8c927717650b6c84b8b0f755fe925c4e",
+      "points": "9",
+      "players": [
+        "danoco",
+        "vsm",
+        "CutzMeretz",
+        "Misfit",
+        "max"
+      ]
+    },
+    {
+      "position": "#123",
+      "name": "EYEBALLERS",
+      "id": "11737",
+      "link": "/team/11737/eyeballers",
+      "logo": "https://img-cdn.hltv.org/teamlogo/3-Mfc-yWBTls8MPSEFhma5.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=2ffde3e377d01663937bf08b74d2057b",
+      "points": "9",
+      "players": [
+        "JW",
+        "HEAP",
+        "delle",
+        "dex",
+        "poiii"
+      ]
+    },
+    {
+      "position": "#124",
+      "name": "Leo",
+      "id": "11446",
+      "link": "/team/11446/leo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/8W-UeGbtwFEzEz0RiPxxLS.png?ixlib=java-2.1.0&w=50&s=8e4a2a65e1aed01c87c1f317a81366ce",
+      "points": "9",
+      "players": [
+        "kr1vda",
+        "Malkiss",
+        "marat2k",
+        "kL1o",
+        "OneUn1que"
+      ]
+    },
+    {
+      "position": "#125",
+      "name": "RUBY",
+      "id": "12694",
+      "link": "/team/12694/ruby",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YaQaIVK0D6cs4tfo0IIN5y.png?ixlib=java-2.1.0&w=50&s=71e4e0892ed059aa9979742d35df02fa",
+      "points": "9",
+      "players": [
+        "fozil",
+        "H4SAN4TOR",
+        "sowalio",
+        "Kaide",
+        "mo0N"
+      ]
+    },
+    {
+      "position": "#126",
+      "name": "HOTU",
+      "id": "11581",
+      "link": "/team/11581/hotu",
+      "logo": "https://img-cdn.hltv.org/teamlogo/UH5TD1Lyutr_JwKu2ldl-A.png?ixlib=java-2.1.0&w=50&s=6ff0544743996e6f3b166643371d2839",
+      "points": "9",
+      "players": [
+        "kade0",
+        "Re1GN",
+        "mizu",
+        "lampada",
+        "youka"
+      ]
+    },
+    {
+      "position": "#127",
+      "name": "Aetheris",
+      "id": "13111",
+      "link": "/team/13111/aetheris",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MjLWguGEtpnH7GsPJAXytn.png?ixlib=java-2.1.0&w=50&s=17ece8675595a490ebdd89220f5e4f3f",
+      "points": "9",
+      "players": [
+        "Rulik",
+        "graphX",
+        "xsany",
+        "s1renaa",
+        "karv3r"
+      ]
+    },
+    {
+      "position": "#128",
+      "name": "BAKS",
+      "id": "11699",
+      "link": "/team/11699/baks",
+      "logo": "https://img-cdn.hltv.org/teamlogo/nLp5XrVAABHqpT9WfyyK4x.png?ixlib=java-2.1.0&w=50&s=f84c38d37b7641a6b55f58da00be7de5",
+      "points": "9",
+      "players": [
+        "Due1yant",
+        "GREATEST",
+        "swetsi",
+        "MrTrelog",
+        "Sa1nTy"
+      ]
+    },
+    {
+      "position": "#129",
+      "name": "WildLotus",
+      "id": "13184",
+      "link": "/team/13184/wildlotus",
+      "logo": "/dynamic-svg/teamplaceholder?letter=W",
+      "points": "9",
+      "players": [
+        "smooya",
+        "birdfromsky",
+        "Keoz",
+        "Vegi",
+        "REDSTAR"
+      ]
+    },
+    {
+      "position": "#130",
+      "name": "Bad News Eagles",
+      "id": "11518",
+      "link": "/team/11518/bad-news-eagles",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vinm_rDyYrRmG6QnRISxCK.png?ixlib=java-2.1.0&w=50&s=1c4347c36dea5d035caa2538e2fc4cce",
+      "points": "9",
+      "players": [
+        "rigoN",
+        "SENER1",
+        "juanflatroo",
+        "sinnopsyy",
+        "gxx-"
+      ]
+    },
+    {
+      "position": "#131",
+      "name": "UNO MILLE",
+      "id": "11555",
+      "link": "/team/11555/uno-mille",
+      "logo": "/dynamic-svg/teamplaceholder?letter=U",
+      "points": "9",
+      "players": [
+        "remix",
+        "bnc",
+        "zmb",
+        "realz1n",
+        "Leomonster"
+      ]
+    },
+    {
+      "position": "#132",
+      "name": "ALASKA",
+      "id": "13105",
+      "link": "/team/13105/alaska",
+      "logo": "/dynamic-svg/teamplaceholder?letter=A",
+      "points": "9",
+      "players": [
+        "arTisT",
+        "Extinct",
+        "Girafffe",
+        "Vacancy",
+        "Tree60"
+      ]
+    },
+    {
+      "position": "#133",
+      "name": "Bad News Capybaras",
+      "id": "13112",
+      "link": "/team/13112/bad-news-capybaras",
+      "logo": "/dynamic-svg/teamplaceholder?letter=B",
+      "points": "9",
+      "players": [
+        "LaffyTs",
+        "jchancE",
+        "Grave",
+        "Gabe",
+        "cbass"
+      ]
+    },
+    {
+      "position": "#134",
+      "name": "ALGO",
+      "id": "13163",
+      "link": "/team/13163/algo",
+      "logo": "https://img-cdn.hltv.org/teamlogo/CuxdvjW3vWmW0NxP2OKiWd.png?ixlib=java-2.1.0&w=50&s=e545b3bdbec345377cb5ba6007528a12",
+      "points": "9",
+      "players": [
+        "byr9",
+        "rendysky",
+        "Kiy0o",
+        "maggent",
+        "Shlyaperson"
+      ]
+    },
+    {
+      "position": "#135",
+      "name": "Sangal",
+      "id": "10333",
+      "link": "/team/10333/sangal",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568",
+      "points": "9",
+      "players": [
+        "Calyx",
+        "kreaz",
+        "Blytz",
+        "bnox",
+        "danistzz"
+      ]
+    },
+    {
+      "position": "#136",
+      "name": "Supernova Comets",
+      "id": "13146",
+      "link": "/team/13146/supernova-comets",
+      "logo": "https://img-cdn.hltv.org/teamlogo/NK6_5AiULmLEhU26_vlH1D.png?ixlib=java-2.1.0&w=50&s=dfb4ee9c0118862c26ad9fece4c9adf3",
+      "points": "8",
+      "players": [
+        "Stx",
+        "empathy",
+        "Fawx",
+        "raven",
+        "Serendipity"
+      ]
+    },
+    {
+      "position": "#137",
+      "name": "ENCE Academy",
+      "id": "11790",
+      "link": "/team/11790/ence-academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mId6g5Prtm9fz8JdVna2rr.png?ixlib=java-2.1.0&w=50&s=44dd7e8b22c1c56f3b254ebb7ed891a5",
+      "points": "8",
+      "players": [
+        "2high",
+        "myltsi",
+        "millert",
+        "teme",
+        "Schwarz"
+      ]
+    },
+    {
+      "position": "#138",
+      "name": "LFO 3",
+      "id": "13154",
+      "link": "/team/13154/lfo-3",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L",
+      "points": "8",
+      "players": [
+        "Chill",
+        "BehinDx",
+        "giM",
+        "Matheos",
+        "awks"
+      ]
+    },
+    {
+      "position": "#139",
+      "name": "NomadS",
+      "id": "12900",
+      "link": "/team/12900/nomads",
+      "logo": "https://img-cdn.hltv.org/teamlogo/mW_SjNUBUEIJfNULzhMLx-.png?ixlib=java-2.1.0&w=50&s=dba0dfd619ae12961b57caaea26e119b",
+      "points": "8",
+      "players": [
+        "HenX",
+        "hoolig4n",
+        "Randyyyy",
+        "CRYTICAL",
+        "KRST"
+      ]
+    },
+    {
+      "position": "#140",
+      "name": "Adventurers",
+      "id": "13118",
+      "link": "/team/13118/adventurers",
+      "logo": "https://img-cdn.hltv.org/teamlogo/9KKD12f0mMoECk1Jk80jDM.png?ixlib=java-2.1.0&w=50&s=5b3e55a7ae68936e0e17dca5ef091c30",
+      "points": "8",
+      "players": [
+        "hAdji",
+        "Woro2k",
+        "meztal",
+        "Nivera",
+        "OWNER"
+      ]
+    },
+    {
+      "position": "#141",
+      "name": "Viperio",
+      "id": "9506",
+      "link": "/team/9506/viperio",
+      "logo": "https://img-cdn.hltv.org/teamlogo/onKeFpvytk7QFZ9ZMcN3t1.png?ixlib=java-2.1.0&w=50&s=3c6e11c209c77332cd7f275d316fb2a8",
+      "points": "8",
+      "players": [
+        "swicher",
+        "Skrimo",
+        "zodi",
+        "dezt",
+        "Junyme"
+      ]
+    },
+    {
+      "position": "#142",
+      "name": "KRÜ",
+      "id": "10900",
+      "link": "/team/10900/kr",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6TGffcmOguArOxbFtyzHpC.png?ixlib=java-2.1.0&w=50&s=baef02f7c3a9bf80ff205810912b173b",
+      "points": "8",
+      "players": [
+        "reversive",
+        "laser",
+        "atarax1a",
+        "righi"
+      ]
+    },
+    {
+      "position": "#143",
+      "name": "Just Swing",
+      "id": "13053",
+      "link": "/team/13053/just-swing",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YZVhnCnHIE5kDwUpcNYuUs.png?ixlib=java-2.1.0&w=50&s=571237bc8d17ae5fc99e809f43a70245",
+      "points": "8",
+      "players": [
+        "Marek",
+        "gas",
+        "Purely",
+        "qqGOD",
+        "VanceKK"
+      ]
+    },
+    {
+      "position": "#144",
+      "name": "Chimera",
+      "id": "13098",
+      "link": "/team/13098/chimera",
+      "logo": "https://img-cdn.hltv.org/teamlogo/51udeJaUPedLtwlZsXYr0C.png?ixlib=java-2.1.0&w=50&s=f1adf77fd2408d95e8d9a884a449e8ed",
+      "points": "8",
+      "players": [
+        "sh1nejezzz",
+        "m1QUSE",
+        "VILBy",
+        "bluewh1te",
+        "z3ndeR"
+      ]
+    },
+    {
+      "position": "#145",
+      "name": "Shika",
+      "id": "13147",
+      "link": "/team/13147/shika",
+      "logo": "https://img-cdn.hltv.org/teamlogo/UoZ-A7ObNXzTB_Z_FiZtyH.png?ixlib=java-2.1.0&w=50&s=fda0a589af017ab77659742cf5e1e0be",
+      "points": "8",
+      "players": [
+        "splashske",
+        "Biuckmt",
+        "jiejie",
+        "Zy88",
+        "Siyi"
+      ]
+    },
+    {
+      "position": "#146",
+      "name": "Swingers",
+      "id": "13109",
+      "link": "/team/13109/swingers",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S",
+      "points": "8",
+      "players": [
+        "ponter",
+        "desh",
+        "ninjaZ",
+        "vinaabEAST"
+      ]
+    },
+    {
+      "position": "#147",
+      "name": "GameAgents",
+      "id": "6652",
+      "link": "/team/6652/gameagents",
+      "logo": "https://img-cdn.hltv.org/teamlogo/op6cwqmqq7VpO7SKRv0aS4.png?ixlib=java-2.1.0&w=50&s=f9496108534e1ad6b4cc4172404b03a4",
+      "points": "7",
+      "players": [
+        "swiz",
+        "Qlocuu",
+        "POLO",
+        "nestee",
+        "virtuoso"
+      ]
+    },
+    {
+      "position": "#148",
+      "name": "FORZE Reload",
+      "id": "12857",
+      "link": "/team/12857/forze-reload",
+      "logo": "https://img-cdn.hltv.org/teamlogo/YJnWBDwmRDJ9o2uOUrhNeQ.png?ixlib=java-2.1.0&w=50&s=83f5ce35b3f98833671987bc637c74b7",
+      "points": "7",
+      "players": [
+        "spirit",
+        "shady",
+        "rexxie",
+        "Something",
+        "KusMe"
+      ]
+    },
+    {
+      "position": "#149",
+      "name": "AK BARS",
+      "id": "12997",
+      "link": "/team/12997/ak-bars",
+      "logo": "https://img-cdn.hltv.org/teamlogo/4ppnlNI0PF_tRD1WAgGaKH.png?ixlib=java-2.1.0&w=50&s=6ee6e4c8da266c5957fd3390e4e1fa33",
+      "points": "7",
+      "players": [
+        "SNk",
+        "kamaz1k",
+        "enzero",
+        "plushax",
+        "kenz1"
+      ]
+    },
+    {
+      "position": "#150",
+      "name": "Nexus",
+      "id": "7187",
+      "link": "/team/7187/nexus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe",
+      "points": "7",
+      "players": [
+        "BTN",
+        "XELLOW",
+        "ragga",
+        "ADRON",
+        "s0und"
+      ]
+    },
+    {
+      "position": "#151",
+      "name": "Galorys",
+      "id": "12677",
+      "link": "/team/12677/galorys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GljsUhNlV1YdE2Z1ge-HzK.png?ixlib=java-2.1.0&w=50&s=fd7e8570af28b29e7dfa34eab2c506b1",
+      "points": "7",
+      "players": [
+        "Alisson",
+        "pepe",
+        "divine",
+        "kadzz",
+        "bacc"
+      ]
+    },
+    {
+      "position": "#152",
+      "name": "IHC",
+      "id": "11585",
+      "link": "/team/11585/ihc",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Dmy6A1T8EZ9OKU-x7yT4VR.png?ixlib=java-2.1.0&w=50&s=94ec104bae0e1fdfc5a1c39941bd89f0",
+      "points": "7",
+      "players": [
+        "rate",
+        "clouden",
+        "yAmi",
+        "cool4st",
+        "me1o"
+      ]
+    },
+    {
+      "position": "#153",
+      "name": "MCS",
+      "id": "13005",
+      "link": "/team/13005/mcs",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LJ4y_LJM5-5hkqc3K3kyIs.png?ixlib=java-2.1.0&w=50&s=e19681ad40acdd053a147893e430cf82",
+      "points": "7",
+      "players": [
+        "Go0dby3",
+        "Scorchyy",
+        "ogura",
+        "snufaffu",
+        "Oczarka"
+      ]
+    },
+    {
+      "position": "#154",
+      "name": "UNiTY",
+      "id": "12267",
+      "link": "/team/12267/unity",
+      "logo": "https://img-cdn.hltv.org/teamlogo/coucDlsynd0Ujutb5o2SC-.png?ixlib=java-2.1.0&w=50&s=a5d9a7be6bddda8b8c01ab037786a465",
+      "points": "7",
+      "players": [
+        "Pechyn",
+        "Levi",
+        "K1-FiDa",
+        "NEOFRAG",
+        "woozzzi"
+      ]
+    },
+    {
+      "position": "#155",
+      "name": "Blaze Warriors",
+      "id": "12964",
+      "link": "/team/12964/blaze-warriors",
+      "logo": "https://img-cdn.hltv.org/teamlogo/rKG3hRq0BUeO0sIuS-1vsM.png?ixlib=java-2.1.0&w=50&s=1b48241eddac0142719ff9953bdd1d14",
+      "points": "7",
+      "players": [
+        "pms",
+        "baby4",
+        "melu",
+        "tad",
+        "Ryu"
+      ]
+    },
+    {
+      "position": "#156",
+      "name": "ESC",
+      "id": "4532",
+      "link": "/team/4532/esc",
+      "logo": "https://img-cdn.hltv.org/teamlogo/IUUuNL212k6U_fSDI_Iqc9.png?ixlib=java-2.1.0&w=50&s=b04ab356f1b591859dacc234c67d0290",
+      "points": "6",
+      "players": [
+        "SaMey",
+        "maaryy",
+        "bajmi",
+        "mASKED",
+        "tein"
+      ]
+    },
+    {
+      "position": "#157",
+      "name": "THE",
+      "id": "12955",
+      "link": "/team/12955/the",
+      "logo": "https://img-cdn.hltv.org/teamlogo/-5ttUnrEhcqpz6FktjjzPM.png?ixlib=java-2.1.0&w=50&s=90683557689d31487545e03037e274f2",
+      "points": "6",
+      "players": [
+        "Sange",
+        "d0RREN",
+        "krc",
+        "DayMake",
+        "kaito"
+      ]
+    },
+    {
+      "position": "#158",
+      "name": "Only One Word",
+      "id": "11263",
+      "link": "/team/11263/only-one-word",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AVlPk4QtsroIgpL4YSM5cz.png?ixlib=java-2.1.0&w=50&s=ec2839fa2117c8f83e18f5781ad6f7ad",
+      "points": "6",
+      "players": [
+        "Freeman",
+        "viridian",
+        "BaN4na",
+        "Terryyy",
+        "Oath"
+      ]
+    },
+    {
+      "position": "#159",
+      "name": "JANO",
+      "id": "11827",
+      "link": "/team/11827/jano",
+      "logo": "https://img-cdn.hltv.org/teamlogo/kQCUocnwX5b6iV6VqUJpFA.png?ixlib=java-2.1.0&w=50&s=89440fe49943d9d739584088dee8a9c9",
+      "points": "6",
+      "players": [
+        "allu",
+        "Aerial",
+        "Sm1llee",
+        "HENU",
+        "Jelo"
+      ]
+    },
+    {
+      "position": "#160",
+      "name": "Vantage",
+      "id": "12455",
+      "link": "/team/12455/vantage",
+      "logo": "https://img-cdn.hltv.org/teamlogo/k7nye4mWdnljC6b10a4sOM.png?ixlib=java-2.1.0&w=50&s=aa5f6d4e23f6c5ab00cdbcc53e2d354f",
+      "points": "6",
+      "players": [
+        "Drox",
+        "Mingovi",
+        "supar",
+        "Jynx",
+        "swerzieN"
+      ]
+    },
+    {
+      "position": "#161",
+      "name": "Floripa Stars",
+      "id": "12867",
+      "link": "/team/12867/floripa-stars",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Dt7Sfz10BY8dSfToCqVj7f.png?ixlib=java-2.1.0&w=50&s=8ce03cdecfc21f44dcc82591cb881d57",
+      "points": "6",
+      "players": [
+        "BRNZ1K",
+        "s1cko",
+        "sakamoto",
+        "ALENNNCAR",
+        "Lukita"
+      ]
+    },
+    {
+      "position": "#162",
+      "name": "Change The Game",
+      "id": "13175",
+      "link": "/team/13175/change-the-game",
+      "logo": "https://img-cdn.hltv.org/teamlogo/jhWUEqa0RW-EmcsND2lk2H.png?ixlib=java-2.1.0&w=50&s=913a3e88b56c9793f25a78b3f4db6e10",
+      "points": "6",
+      "players": [
+        "Hack1ng",
+        "957",
+        "yancher",
+        "LaiKeXu"
+      ]
+    },
+    {
+      "position": "#163",
+      "name": "LAG",
+      "id": "11955",
+      "link": "/team/11955/lag",
+      "logo": "https://img-cdn.hltv.org/teamlogo/W30xfG1IVIUuOJnlsxtHMG.png?ixlib=java-2.1.0&w=50&s=7b86122252f70538d55be737b7e80c50",
+      "points": "6",
+      "players": [
+        "Experative",
+        "TR0JN",
+        "spud",
+        "SnacKZ1",
+        "Weeza"
+      ]
+    },
+    {
+      "position": "#164",
+      "name": "1win",
+      "id": "10621",
+      "link": "/team/10621/1win",
+      "logo": "https://img-cdn.hltv.org/teamlogo/zbmzI2IMFNwHUvTO4EHaTZ.png?ixlib=java-2.1.0&w=50&s=fd29838f5b22b76075de4c80c2e04c0b",
+      "points": "6",
+      "players": [
+        "HObbit",
+        "sh1geo",
+        "cronuss",
+        "oz1k"
+      ]
+    },
+    {
+      "position": "#165",
+      "name": "harizma",
+      "id": "13115",
+      "link": "/team/13115/harizma",
+      "logo": "/dynamic-svg/teamplaceholder?letter=h",
+      "points": "6",
+      "players": [
+        "LAME",
+        "Haski4",
+        "ZinGY",
+        "Geneka",
+        "DeFFeN"
+      ]
+    },
+    {
+      "position": "#166",
+      "name": "SUPER EVIL GANG",
+      "id": "13177",
+      "link": "/team/13177/super-evil-gang",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S",
+      "points": "6",
+      "players": [
+        "arias",
+        "Talen",
+        "misha",
+        "flow",
+        "clipzera"
+      ]
+    },
+    {
+      "position": "#167",
+      "name": "The QUBE",
+      "id": "12825",
+      "link": "/team/12825/the-qube",
+      "logo": "https://img-cdn.hltv.org/teamlogo/HlSWfQpCP5mwCCnFIYAUt9.png?ixlib=java-2.1.0&w=50&s=f092ac289e57550335ba599f3d5923b1",
+      "points": "5",
+      "players": [
+        "aNSeLMO",
+        "Paranormal",
+        "soloooS",
+        "Kamui",
+        "bkzcurs3d"
+      ]
+    },
+    {
+      "position": "#168",
+      "name": "WOPA",
+      "id": "12787",
+      "link": "/team/12787/wopa",
+      "logo": "https://img-cdn.hltv.org/teamlogo/pF87FZYyXB5WVnSBU0Nh0S.png?ixlib=java-2.1.0&w=50&s=bc349a5eb451b166f129bfe25f9f14be",
+      "points": "5",
+      "players": [
+        "Vster",
+        "n1Xen",
+        "PR1mE",
+        "Gnøffe",
+        "sL1m3"
+      ]
+    },
+    {
+      "position": "#169",
+      "name": "Dusty Roots",
+      "id": "12548",
+      "link": "/team/12548/dusty-roots",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_1BiVpPT6y1w_jVvTSn7nt.png?ixlib=java-2.1.0&w=50&s=35e5c80797870d1893326794e28963a3",
+      "points": "5",
+      "players": [
+        "1962",
+        "tom1jed",
+        "maxxkor",
+        "toto",
+        "guty"
+      ]
+    },
+    {
+      "position": "#170",
+      "name": "ShindeN",
+      "id": "12959",
+      "link": "/team/12959/shinden",
+      "logo": "https://img-cdn.hltv.org/teamlogo/5tfhYrPKeLDzFW8X-vFExJ.png?ixlib=java-2.1.0&w=50&s=cfc4c6391157f58820f5108485a4f2a6",
+      "points": "5",
+      "players": [
+        "BK1",
+        "nacho",
+        "abizz",
+        "roy",
+        "ivz"
+      ]
+    },
+    {
+      "position": "#171",
+      "name": "Wildcard Academy",
+      "id": "13127",
+      "link": "/team/13127/wildcard-academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/CKEur6HAFVfmPTOgmzpsvv.png?ixlib=java-2.1.0&w=50&s=2af983c73cfdbcd3c7a282cfe8462d94",
+      "points": "5",
+      "players": [
+        "fr3nd",
+        "T4gg3D",
+        "TMKj",
+        "Wonder",
+        "sSen"
+      ]
+    },
+    {
+      "position": "#172",
+      "name": "LFO 2",
+      "id": "13114",
+      "link": "/team/13114/lfo-2",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L",
+      "points": "5",
+      "players": [
+        "SALO_MUX",
+        "weqt2",
+        "mediocrity",
+        "Reminder",
+        "CziTeX"
+      ]
+    },
+    {
+      "position": "#173",
+      "name": "Prasso",
+      "id": "13166",
+      "link": "/team/13166/prasso",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ZHtLDcASVnK-za4YejhOAc.png?ixlib=java-2.1.0&w=50&s=6d12e235b4c6fb6d35f3779042160cdb",
+      "points": "5",
+      "players": [
+        "lenci",
+        "pavv",
+        "Hezz",
+        "rzk",
+        "dott1"
+      ]
+    },
+    {
+      "position": "#174",
+      "name": "8Sins",
+      "id": "13024",
+      "link": "/team/13024/8sins",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LzSMAmzYWVt1K1-HBrtdad.png?ixlib=java-2.1.0&w=50&s=00c0167da79d01ea9bd4c89de1e6c540",
+      "points": "5",
+      "players": [
+        "Wolfie",
+        "Dutchy",
+        "Prime",
+        "wfn",
+        "moz"
+      ]
+    },
+    {
+      "position": "#175",
+      "name": "Tsunami",
+      "id": "12180",
+      "link": "/team/12180/tsunami",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Rl5z8uxYsaWrIpS6gcwVDf.png?ixlib=java-2.1.0&w=50&s=9f9fb041fd20f49afbd9cfb897a9c705",
+      "points": "5",
+      "players": [
+        "caustic",
+        "CAJUN",
+        "Pose1doNN",
+        "Drop",
+        "CoolComs"
+      ]
+    },
+    {
+      "position": "#176",
+      "name": "Players",
+      "id": "11711",
+      "link": "/team/11711/players",
+      "logo": "/dynamic-svg/teamplaceholder?letter=P",
+      "points": "5",
+      "players": [
+        "MITHPUTTINI",
+        "voltera",
+        "xns",
+        "spinnie",
+        "hug1"
+      ]
+    },
+    {
+      "position": "#177",
+      "name": "GameHunters",
+      "id": "12988",
+      "link": "/team/12988/gamehunters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/kaJW-Rt4N4IVPApc1wKtTd.png?ixlib=java-2.1.0&w=50&s=67d9bb2642668856a55fdf2ba192605f",
+      "points": "5",
+      "players": [
+        "prt",
+        "abr",
+        "nolkz",
+        "mello",
+        "slashzz"
+      ]
+    },
+    {
+      "position": "#178",
+      "name": "Chicken Coop",
+      "id": "13107",
+      "link": "/team/13107/chicken-coop",
+      "logo": "https://img-cdn.hltv.org/teamlogo/b4BdjAEO0sntamT0gjZFx1.png?ixlib=java-2.1.0&w=50&s=40c84b4545e75a1729296ea6fbbb23ea",
+      "points": "5",
+      "players": [
+        "FRIZZY",
+        "LittleBEER",
+        "BiNoX",
+        "taggy",
+        "BAGEL"
+      ]
+    },
+    {
+      "position": "#179",
+      "name": "Astralis Talent",
+      "id": "10954",
+      "link": "/team/10954/astralis-talent",
+      "logo": "https://img-cdn.hltv.org/teamlogo/CjJ724E0EVB8cIXAVmwi5w.svg?ixlib=java-2.1.0&s=41f113b08d461bee5d8673d4612811dd",
+      "points": "5",
+      "players": [
+        "kiR",
+        "kroK",
+        "Zanto",
+        "ANSG1",
+        "suma"
+      ]
+    },
+    {
+      "position": "#180",
+      "name": "Familia Maquininha",
+      "id": "13137",
+      "link": "/team/13137/familia-maquininha",
+      "logo": "/dynamic-svg/teamplaceholder?letter=F",
+      "points": "5",
+      "players": [
+        "mawth",
+        "tatazin",
+        "detr0ittJ"
+      ]
+    },
+    {
+      "position": "#181",
+      "name": "KZG",
+      "id": "12152",
+      "link": "/team/12152/kzg",
+      "logo": "https://img-cdn.hltv.org/teamlogo/3nBRNC2hmyfFgIGv65EKyf.png?ixlib=java-2.1.0&w=50&s=2cdee82e3a2de23a951d812e580a3c12",
+      "points": "5",
+      "players": [
+        "foggers",
+        "Hassie",
+        "Samuukxs",
+        "Estate",
+        "Kras"
+      ]
+    },
+    {
+      "position": "#182",
+      "name": "Steel Helmet",
+      "id": "11273",
+      "link": "/team/11273/steel-helmet",
+      "logo": "https://img-cdn.hltv.org/teamlogo/lwEBvs9wWfIPi8d0E-U58H.png?ixlib=java-2.1.0&w=50&s=d480a55d6f41d72c2541a01eabb702b8",
+      "points": "4",
+      "players": [
+        "captainMo",
+        "DD",
+        "xiaosaGe",
+        "AE",
+        "18yM"
+      ]
+    },
+    {
+      "position": "#183",
+      "name": "NITRO",
+      "id": "12915",
+      "link": "/team/12915/nitro",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1xw9n40KJrKUCm9hyrIjFt.png?ixlib=java-2.1.0&w=50&s=116a05220f3cac4486b5e02772beb256",
+      "points": "4",
+      "players": [
+        "LUCAS1",
+        "Lcm",
+        "beg0d",
+        "happ",
+        "leleo"
+      ]
+    },
+    {
+      "position": "#184",
+      "name": "MIBR Academy",
+      "id": "3044",
+      "link": "/team/3044/mibr-academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/gFQKd48pLOvrtEDXhcHxkZ.png?ixlib=java-2.1.0&w=50&s=76693c9855cb7f3afa733ba3c4db0ac9",
+      "points": "4",
+      "players": [
+        "card",
+        "brn$",
+        "stormzyn",
+        "RenanZin"
+      ]
+    },
+    {
+      "position": "#185",
+      "name": "PLUSH",
+      "id": "13174",
+      "link": "/team/13174/plush",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MXvUeWEayrcyO6mfGv90Nb.png?ixlib=java-2.1.0&w=50&s=a717c5a3bf61afc4afe6e75206ae4bfb",
+      "points": "4",
+      "players": [
+        "St0m4k",
+        "tripex17",
+        "ner",
+        "n0rths",
+        "m4d4ra"
+      ]
+    },
+    {
+      "position": "#186",
+      "name": "Rhyno",
+      "id": "10947",
+      "link": "/team/10947/rhyno",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Jm58k0qc9czT0slzw1fUBv.png?ixlib=java-2.1.0&w=50&s=2ac88eb0bd9e05af5efee05962460488",
+      "points": "4",
+      "players": [
+        "Icarus",
+        "P3R3IIRA",
+        "aragornN",
+        "krazy",
+        "seabraez"
+      ]
+    },
+    {
+      "position": "#187",
+      "name": "Mythic",
+      "id": "5479",
+      "link": "/team/5479/mythic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/giKWRtCUgQzLqqfLUgwPvv.png?ixlib=java-2.1.0&w=50&s=1f562a9c5d9bbb7aafcedeaf233a3837",
+      "points": "4",
+      "players": [
+        "fl0m",
+        "Cooper",
+        "hyza",
+        "Austin",
+        "Trucklover86"
+      ]
+    },
+    {
+      "position": "#188",
+      "name": "ONi",
+      "id": "12952",
+      "link": "/team/12952/oni",
+      "logo": "https://img-cdn.hltv.org/teamlogo/NrLLq5FyL4quEFwyKbz6GG.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=a9e37ae54fae6904f0ad48b35556659c",
+      "points": "4",
+      "players": [
+        "Jonger",
+        "Estelle",
+        "Jaytzy",
+        "clyd1e",
+        "Chinits"
+      ]
+    },
+    {
+      "position": "#189",
+      "name": "ex-Heimo",
+      "id": "13203",
+      "link": "/team/13203/ex-heimo",
+      "logo": "/dynamic-svg/teamplaceholder?letter=e",
+      "points": "4",
+      "players": [
+        "arvid",
+        "oopee",
+        "Welho",
+        "japE",
+        "ykis"
+      ]
+    },
+    {
+      "position": "#190",
+      "name": "JFT",
+      "id": "13113",
+      "link": "/team/13113/jft",
+      "logo": "https://img-cdn.hltv.org/teamlogo/48G4vZ7YIf-7biSsPmLJ7k.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=604b056f29081e6f5e1b3b83d4684aff",
+      "points": "4",
+      "players": [
+        "xc",
+        "kasze",
+        "COOOOOOFFEE",
+        "LarkoTaco",
+        "ELFMELK"
+      ]
+    },
+    {
+      "position": "#191",
+      "name": "Eco Warriors",
+      "id": "13121",
+      "link": "/team/13121/eco-warriors",
+      "logo": "/dynamic-svg/teamplaceholder?letter=E",
+      "points": "4",
+      "players": [
+        "juliano",
+        "D7",
+        "vicu",
+        "kyossa",
+        "wieenN"
+      ]
+    },
+    {
+      "position": "#192",
+      "name": "InControl",
+      "id": "7720",
+      "link": "/team/7720/incontrol",
+      "logo": "https://img-cdn.hltv.org/teamlogo/lWW8xhLBn-M7Q-uZ-UstPB.png?ixlib=java-2.1.0&w=50&s=9a53734c8ff6d3326a0d86628e9cb349",
+      "points": "4",
+      "players": [
+        "jsfeltner",
+        "DYLAN",
+        "TyRa",
+        "Beast",
+        "milo"
+      ]
+    },
+    {
+      "position": "#193",
+      "name": "FURIA fe",
+      "id": "10976",
+      "link": "/team/10976/furia-fe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cZaGsN8yj6I2dEMfPsibLx.png?ixlib=java-2.1.0&w=50&s=b5481473462f811faf1c535778fcd20d",
+      "points": "4",
+      "players": [
+        "gabs",
+        "bizinha",
+        "izaa",
+        "kaahSENSEI",
+        "lulitenz"
+      ]
+    },
+    {
+      "position": "#194",
+      "name": "Permitta",
+      "id": "12009",
+      "link": "/team/12009/permitta",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vHZtmGu5T9miL5KLF_1S1e.png?ixlib=java-2.1.0&w=50&s=f5254450f4e7c2db204ff4a927a58d02",
+      "points": "4",
+      "players": [
+        "Twiksar",
+        "Kre1N",
+        "fostar",
+        "Orbit",
+        "Tionix"
+      ]
+    },
+    {
+      "position": "#195",
+      "name": "FLuffy Gangsters",
+      "id": "6668",
+      "link": "/team/6668/fluffy-gangsters",
+      "logo": "https://img-cdn.hltv.org/teamlogo/1rM-qNVqKfIbsfOQp7bjTq.png?ixlib=java-2.1.0&w=50&s=f808b12bdca5002af401c93c664b8b72",
+      "points": "3",
+      "players": [
+        "solb",
+        "h1ghnesS",
+        "takanashi",
+        "Djon8",
+        "yuramyata"
+      ]
+    },
+    {
+      "position": "#196",
+      "name": "Flshbck",
+      "id": "13189",
+      "link": "/team/13189/flshbck",
+      "logo": "/dynamic-svg/teamplaceholder?letter=F",
+      "points": "3",
+      "players": [
+        "EmbeR",
+        "Mcg!LLzZz",
+        "clouda",
+        "DEFAULTER",
+        "reV3nnnn"
+      ]
+    },
+    {
+      "position": "#197",
+      "name": "MANTRA",
+      "id": "12472",
+      "link": "/team/12472/mantra",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M",
+      "points": "3",
+      "players": [
+        "cookie",
+        "SkulL",
+        "cheeseball",
+        "rekonz",
+        "Winnieeeee"
+      ]
+    },
+    {
+      "position": "#198",
+      "name": "Dark Cloud",
+      "id": "13158",
+      "link": "/team/13158/dark-cloud",
+      "logo": "https://img-cdn.hltv.org/teamlogo/R_QXdaGKXP7-4_wGVH2v2z.png?ixlib=java-2.1.0&w=50&s=f3e6589560729e4f65d52180f3ac77c7",
+      "points": "3",
+      "players": [
+        "darchevile",
+        "mwlky",
+        "AdrieN",
+        "chudy",
+        "Nami"
+      ]
+    },
+    {
+      "position": "#199",
+      "name": "Underground",
+      "id": "12707",
+      "link": "/team/12707/underground",
+      "logo": "https://img-cdn.hltv.org/teamlogo/BlDVOQnGCGmv5v9LtET7Hf.png?ixlib=java-2.1.0&w=50&s=5ba5c802cc3b4af402cfa0c051786126",
+      "points": "3",
+      "players": [
+        "N1ghtraid",
+        "Mechanical",
+        "Omichella",
+        "coops",
+        "rahley"
+      ]
+    },
+    {
+      "position": "#200",
+      "name": "NOVAQ",
+      "id": "13178",
+      "link": "/team/13178/novaq",
+      "logo": "https://img-cdn.hltv.org/teamlogo/ex06IkeUFuqX30u_SJLSgX.png?ixlib=java-2.1.0&w=50&s=bc1fced3cb203829b04f2bd7bd8b16ff",
+      "points": "3",
+      "players": [
+        "neaLaN",
+        "def1zer",
+        "Pump",
+        "tasman",
+        "forkyz"
+      ]
+    },
+    {
+      "position": "#201",
+      "name": "2070",
+      "id": "13052",
+      "link": "/team/13052/2070",
+      "logo": "/dynamic-svg/teamplaceholder?letter=2",
+      "points": "3",
+      "players": [
+        "roz",
+        "mid1",
+        "JLK",
+        "redi",
+        "aNgelo"
+      ]
+    },
+    {
+      "position": "#202",
+      "name": "Revel",
+      "id": "11194",
+      "link": "/team/11194/revel",
+      "logo": "https://img-cdn.hltv.org/teamlogo/CWBNBzcN4pbceXDsTPFX_A.png?ixlib=java-2.1.0&w=50&s=a86e29b547a96bad01548269fce05d00",
+      "points": "3",
+      "players": [
+        "Jachro",
+        "madss",
+        "P3nny",
+        "toasty",
+        "brawckzz"
+      ]
+    },
+    {
+      "position": "#203",
+      "name": "Amped",
+      "id": "13006",
+      "link": "/team/13006/amped",
+      "logo": "https://img-cdn.hltv.org/teamlogo/TKzijjvNzHu-l0MlW79wNG.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=0e2c824d3ea72b6885e1df60ee527526",
+      "points": "3",
+      "players": [
+        "coley",
+        "bones",
+        "mang0",
+        "Stay Classy"
+      ]
+    },
+    {
+      "position": "#204",
+      "name": "paiN Academy",
+      "id": "11905",
+      "link": "/team/11905/pain-academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/DJqL2qlXf6Fi01v-8QxQP1.png?ixlib=java-2.1.0&w=50&s=0e2a00494324afe7b104b4c749b70697",
+      "points": "3",
+      "players": [
+        "deemO",
+        "legy",
+        "Tatu",
+        "Markz",
+        "tsug"
+      ]
+    },
+    {
+      "position": "#205",
+      "name": "FlyQuest RED",
+      "id": "12301",
+      "link": "/team/12301/flyquest-red",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bqRjihc2rY4j6Er94k9vaB.png?ixlib=java-2.1.0&w=50&s=74ed489e974099a3eadc7fee8f9a104d",
+      "points": "3",
+      "players": [
+        "GooseBreeder",
+        "Emy",
+        "BiBiAhn",
+        "vanessa",
+        "marie"
+      ]
+    },
+    {
+      "position": "#206",
+      "name": "Victores Sumus",
+      "id": "12929",
+      "link": "/team/12929/victores-sumus",
+      "logo": "https://img-cdn.hltv.org/teamlogo/EivazIrIDGtRhMUWpfDpJo.png?ixlib=java-2.1.0&w=50&s=acf496cdef8d2ce2e517820dc37a1616",
+      "points": "3",
+      "players": [
+        "Recoilmaster",
+        "Benzene",
+        "ChAmP",
+        "arakyN",
+        "RaYzEr"
+      ]
+    },
+    {
+      "position": "#207",
+      "name": "RED Canids Academy",
+      "id": "13029",
+      "link": "/team/13029/red-canids-academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/cBbt6PRgyMMpkSLJWncEV3.png?ixlib=java-2.1.0&w=50&s=06898dac8e3dc1cc763c07a28d7b35a2",
+      "points": "3",
+      "players": [
+        "sanc",
+        "gtw",
+        "n0page",
+        "edv",
+        "FasteR"
+      ]
+    },
+    {
+      "position": "#208",
+      "name": "Nuclear TigeRES",
+      "id": "13027",
+      "link": "/team/13027/nuclear-tigeres",
+      "logo": "https://img-cdn.hltv.org/teamlogo/GcO3SLh1j8cgiNGoEXNUVS.png?ixlib=java-2.1.0&w=50&s=856dc9f0ffdbeedbe76d9874fbcdb546",
+      "points": "3",
+      "players": [
+        "k0s",
+        "senka",
+        "h1kaN",
+        "flouzer",
+        "fluffy"
+      ]
+    },
+    {
+      "position": "#209",
+      "name": "regain",
+      "id": "12554",
+      "link": "/team/12554/regain",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LTmaaW0Rzw0kiS9BBs2B3q.png?ixlib=java-2.1.0&w=50&s=514a314b3cd81406f7134b5b0e326bb6",
+      "points": "2",
+      "players": [
+        "Halen",
+        "Zucar",
+        "dvrk",
+        "sasha",
+        "fuzenko"
+      ]
+    },
+    {
+      "position": "#210",
+      "name": "Ghost",
+      "id": "7801",
+      "link": "/team/7801/ghost",
+      "logo": "https://img-cdn.hltv.org/teamlogo/uXIIk2oEBwfD8iOlY7UWgM.svg?ixlib=java-2.1.0&s=784d7165d2618b681ca256e2c17a75c6",
+      "points": "2",
+      "players": [
+        "EMUHLEET",
+        "mira",
+        "PiggyKiki",
+        "7licious",
+        "Ellie"
+      ]
+    },
+    {
+      "position": "#211",
+      "name": "Black Mold",
+      "id": "13143",
+      "link": "/team/13143/black-mold",
+      "logo": "https://img-cdn.hltv.org/teamlogo/SduGFAA68Bn7GUPLoSGOJp.png?ixlib=java-2.1.0&w=50&s=e71013d459411d1a949ffec4d1ec891f",
+      "points": "2",
+      "players": [
+        "Knopk@",
+        "Bungee",
+        "uhKelsie",
+        "sunnypp"
+      ]
+    },
+    {
+      "position": "#212",
+      "name": "Volt",
+      "id": "13090",
+      "link": "/team/13090/volt",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Zf8j48RORASNAKrvtlbA35.png?ixlib=java-2.1.0&w=50&s=49b64121b220c86ba9fc79597fa081c9",
+      "points": "2",
+      "players": [
+        "msN",
+        "smekk",
+        "skyye",
+        "ex1st",
+        "JBOEN"
+      ]
+    },
+    {
+      "position": "#213",
+      "name": "Tropa do KinGui",
+      "id": "13151",
+      "link": "/team/13151/tropa-do-kingui",
+      "logo": "/dynamic-svg/teamplaceholder?letter=T",
+      "points": "2",
+      "players": [
+        "fl4sh",
+        "brokeN",
+        "clon7",
+        "wallz1k",
+        "cLd"
+      ]
+    },
+    {
+      "position": "#214",
+      "name": "MASONIC",
+      "id": "10867",
+      "link": "/team/10867/masonic",
+      "logo": "https://img-cdn.hltv.org/teamlogo/LXy16DLCLqmbZWSr4RxeQu.svg?ixlib=java-2.1.0&s=dcd79250b3b5e2e757a89b7c27c6770d",
+      "points": "2",
+      "players": [
+        "Frøslev",
+        "Bukhavez",
+        "Noruyp",
+        "Botman",
+        "grumpyMonk"
+      ]
+    },
+    {
+      "position": "#215",
+      "name": "Aether",
+      "id": "12908",
+      "link": "/team/12908/aether",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PwqtnH1XjoyqDFwh37YuYE.png?ixlib=java-2.1.0&w=50&s=014255619312d9cb2d640a3fbcde6986",
+      "points": "2",
+      "players": [
+        "SolGoat",
+        "AtomiK",
+        "MJB"
+      ]
+    },
+    {
+      "position": "#216",
+      "name": "NIP Impact",
+      "id": "11917",
+      "link": "/team/11917/nip-impact",
+      "logo": "https://img-cdn.hltv.org/teamlogo/wCqeFerj7ysPkXBxntu9KQ.png?ixlib=java-2.1.0&w=50&s=911392eef6d7fcce84af706f220984ab",
+      "points": "2",
+      "players": [
+        "vilga",
+        "Qiyarah",
+        "Nayomy",
+        "ramziiN",
+        "aiM"
+      ]
+    },
+    {
+      "position": "#217",
+      "name": "thekillaz fe",
+      "id": "12912",
+      "link": "/team/12912/thekillaz-fe",
+      "logo": "/dynamic-svg/teamplaceholder?letter=t",
+      "points": "2",
+      "players": [
+        "fly",
+        "Cellax",
+        "Samys",
+        "hera",
+        "brunakiller"
+      ]
+    },
+    {
+      "position": "#218",
+      "name": "Lilmix",
+      "id": "9735",
+      "link": "/team/9735/lilmix",
+      "logo": "https://img-cdn.hltv.org/teamlogo/PivV1r_I1_8u2BoxMyd4zH.svg?ixlib=java-2.1.0&s=b11d58720f2279be14920d45887bb9dd",
+      "points": "2",
+      "players": [
+        "quix",
+        "bq",
+        "bsover",
+        "doobs"
+      ]
+    },
+    {
+      "position": "#219",
+      "name": "Lazer Cats",
+      "id": "12087",
+      "link": "/team/12087/lazer-cats",
+      "logo": "https://img-cdn.hltv.org/teamlogo/WldQs3KiJJFmGzdeOdibuw.png?ixlib=java-2.1.0&w=50&s=995bcbd5b240788cce88d211d26a47b1",
+      "points": "2",
+      "players": [
+        "Templ",
+        "MAGILA",
+        "yab0ku",
+        "nikitea",
+        "Magic"
+      ]
+    },
+    {
+      "position": "#220",
+      "name": "Spray and Slay",
+      "id": "13187",
+      "link": "/team/13187/spray-and-slay",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S",
+      "points": "2",
+      "players": [
+        "Aida",
+        "julih",
+        "KittyTM",
+        "KiTKaT",
+        "Emmsan"
+      ]
+    },
+    {
+      "position": "#221",
+      "name": "HAVU",
+      "id": "7865",
+      "link": "/team/7865/havu",
+      "logo": "https://img-cdn.hltv.org/teamlogo/_bpWybCQhDRnPq8Z2ZYO5h.png?ixlib=java-2.1.0&w=50&s=2e3c9e1a0a833d4d92ce10ec8adddf00",
+      "points": "2",
+      "players": [
+        "uli",
+        "Alxc",
+        "p3kko",
+        "puuha",
+        "ottob"
+      ]
+    },
+    {
+      "position": "#222",
+      "name": "MIBR fe",
+      "id": "10975",
+      "link": "/team/10975/mibr-fe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/m_JQ624LNFHWiUY-25uuaE.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6f521aaf8c039fc3f6f235a8a1b7dd40",
+      "points": "2",
+      "players": [
+        "GaBi",
+        "goddess",
+        "poppins",
+        "yungher",
+        "Dani"
+      ]
+    },
+    {
+      "position": "#223",
+      "name": "Atrix",
+      "id": "12533",
+      "link": "/team/12533/atrix",
+      "logo": "https://img-cdn.hltv.org/teamlogo/K2VILjWtsdCwtW4NLwhmFA.png?ixlib=java-2.1.0&w=50&s=631ec1a889fa8ae96af4bf035a6030f6",
+      "points": "2",
+      "players": [
+        "REGIANE",
+        "bokor",
+        "LyttleZ",
+        "s1non",
+        "Sofiaxyz"
+      ]
+    },
+    {
+      "position": "#224",
+      "name": "benched",
+      "id": "11138",
+      "link": "/team/11138/benched",
+      "logo": "/dynamic-svg/teamplaceholder?letter=b",
+      "points": "1",
+      "players": [
+        "supra",
+        "FinigaN",
+        "Pipw"
+      ]
+    },
+    {
+      "position": "#225",
+      "name": "AKA HERO KAJO",
+      "id": "13142",
+      "link": "/team/13142/aka-hero-kajo",
+      "logo": "/dynamic-svg/teamplaceholder?letter=A",
+      "points": "1",
+      "players": [
+        "Waldee",
+        "miLo",
+        "amyb",
+        "Siljeeeh",
+        "piku"
+      ]
+    },
+    {
+      "position": "#226",
+      "name": "nomercy fe",
+      "id": "13122",
+      "link": "/team/13122/nomercy-fe",
+      "logo": "/dynamic-svg/teamplaceholder?letter=n",
+      "points": "1",
+      "players": [
+        "unknxwn",
+        "aiveri",
+        "meo",
+        "akiyanora",
+        "turboxgirl"
+      ]
+    },
+    {
+      "position": "#227",
+      "name": "Nouns fe",
+      "id": "12556",
+      "link": "/team/12556/nouns-fe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/bOS94PsKWetWSmtp5m-FpK.png?ixlib=java-2.1.0&w=50&s=dbb6c16a953a45e98990b8e7aed39059",
+      "points": "1",
+      "players": [
+        "violet",
+        "tori",
+        "ashe",
+        "jesscas",
+        "lunari"
+      ]
+    },
+    {
+      "position": "#228",
+      "name": "CS2News Ladies",
+      "id": "13168",
+      "link": "/team/13168/cs2news-ladies",
+      "logo": "https://img-cdn.hltv.org/teamlogo/P1-Y9v2uFSndOA7rF3VOb4.png?ixlib=java-2.1.0&w=50&s=0f8e75116234261e44786b0aeea7895b",
+      "points": "1",
+      "players": [
+        "Stormy",
+        "Margo",
+        "v1spel",
+        "irbitka",
+        "emocore"
+      ]
+    },
+    {
+      "position": "#229",
+      "name": "Akuma",
+      "id": "13134",
+      "link": "/team/13134/akuma",
+      "logo": "/dynamic-svg/teamplaceholder?letter=A",
+      "points": "1",
+      "players": [
+        "LETi",
+        "Angelka",
+        "xia",
+        "suns1de",
+        "Hikomi"
+      ]
+    },
+    {
+      "position": "#230",
+      "name": "VELOX",
+      "id": "10978",
+      "link": "/team/10978/velox",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AqRn6VBLEJ8ezV1IiUQn07.png?ixlib=java-2.1.0&w=50&s=f50899a11fad47f25eea7e8e7ff99e99",
+      "points": "1",
+      "players": [
+        "JonY BoY",
+        "tutehen",
+        "nbl",
+        "maaxg1"
+      ]
+    },
+    {
+      "position": "#231",
+      "name": "Prototype Blaze",
+      "id": "13133",
+      "link": "/team/13133/prototype-blaze",
+      "logo": "/dynamic-svg/teamplaceholder?letter=P",
+      "points": "1",
+      "players": [
+        "Monkey D Julie",
+        "Emerald",
+        "Kaoday",
+        "ASTRA",
+        "RacheLL"
+      ]
+    },
+    {
+      "position": "#232",
+      "name": "MEGA JUNERS",
+      "id": "13135",
+      "link": "/team/13135/mega-juners",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M",
+      "points": "1",
+      "players": [
+        "ARIANARCHIST",
+        "Lexa",
+        "AuroraVeee",
+        "AuhnaNaki",
+        "Junie"
+      ]
+    },
+    {
+      "position": "#233",
+      "name": "Nyx Empyre",
+      "id": "13176",
+      "link": "/team/13176/nyx-empyre",
+      "logo": "/dynamic-svg/teamplaceholder?letter=N",
+      "points": "1",
+      "players": [
+        "PippySippy",
+        "MamaAlien",
+        "jaydee",
+        "ADK",
+        "Viv"
+      ]
+    },
+    {
+      "position": "#234",
+      "name": "BIG EQUIPA",
+      "id": "11718",
+      "link": "/team/11718/big-equipa",
+      "logo": "https://img-cdn.hltv.org/teamlogo/6UagLkzIYk5UVlCFmEYXt1.png?ixlib=java-2.1.0&w=50&s=d2655c1d0158cda2f0bdaaeced552421",
+      "points": "1",
+      "players": [
+        "Zana",
+        "pullox",
+        "JennyR",
+        "Hanka",
+        "pauliiee"
+      ]
+    },
+    {
+      "position": "#235",
+      "name": "Lotus fe",
+      "id": "12702",
+      "link": "/team/12702/lotus-fe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/e0Sg9VdVBlKARkTjyOcud_.png?ixlib=java-2.1.0&w=50&s=8d7d26a1c51b591a7eb04892d51e40aa",
+      "points": "1",
+      "players": [
+        "abby",
+        "tokkis",
+        "gadfly",
+        "Zazu",
+        "cyclone"
+      ]
+    },
+    {
+      "position": "#236",
+      "name": "Bounty Hunters fe",
+      "id": "13186",
+      "link": "/team/13186/bounty-hunters-fe",
+      "logo": "https://img-cdn.hltv.org/teamlogo/NozjXwugJlse86cTRPguqd.png?ixlib=java-2.1.0&w=50&s=3ec9fa3daabc4a80128c473006e0f9b7",
+      "points": "1",
+      "players": [
+        "Cara de Banana",
+        "Vii",
+        "Brendinha",
+        "Eleven",
+        "Dynasty"
+      ]
+    },
+    {
+      "position": "#237",
+      "name": "Lumen fe",
+      "id": "12913",
+      "link": "/team/12913/lumen-fe",
+      "logo": "/dynamic-svg/teamplaceholder?letter=L",
+      "points": "1",
+      "players": [
+        "olya",
+        "sckrafft",
+        "daria",
+        "sakura"
+      ]
+    },
+    {
+      "position": "#238",
+      "name": "Quem Sao Elas",
+      "id": "11756",
+      "link": "/team/11756/quem-sao-elas",
+      "logo": "/dynamic-svg/teamplaceholder?letter=Q",
+      "points": "1",
+      "players": [
+        "cAmyy",
+        "Le",
+        "annaEX",
+        "josi",
+        "Babs"
+      ]
+    },
+    {
+      "position": "#239",
+      "name": "9z Academy",
+      "id": "11006",
+      "link": "/team/11006/9z-academy",
+      "logo": "https://img-cdn.hltv.org/teamlogo/vC6SOvGFc5Gql1LZ7H74BZ.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=fa986dd9e257ac07d0b21ec44ed399fa",
+      "points": "1",
+      "players": [
+        "zock9",
+        "MaxOff",
+        "neozix",
+        "lezy",
+        "rw"
+      ]
+    },
+    {
+      "position": "#240",
+      "name": "BRUTE",
+      "id": "9139",
+      "link": "/team/9139/brute",
+      "logo": "https://img-cdn.hltv.org/teamlogo/Bh8oZnAYofBgma_vPu55I7.svg?ixlib=java-2.1.0&s=98154a0be5a53ccadf51c17bdcd57536",
+      "points": "1",
+      "players": [
+        "Siko",
+        "w4rden",
+        "v4NO",
+        "realzen",
+        "N1KOLAJ"
+      ]
+    },
+    {
+      "position": "#241",
+      "name": "st4rboys",
+      "id": "12983",
+      "link": "/team/12983/st4rboys",
+      "logo": "https://img-cdn.hltv.org/teamlogo/AaYCjgOX2bKGcKO661iLw-.png?ixlib=java-2.1.0&w=50&s=bc0bd412ee221f550c4d30439b5455c1",
+      "points": "0",
+      "players": [
+        "hf",
+        "Ang3l10wOw",
+        "Scoffic",
+        "Sharpshooter",
+        "Bloody"
+      ]
+    },
+    {
+      "position": "#242",
+      "name": "SAW Myst",
+      "id": "13140",
+      "link": "/team/13140/saw-myst",
+      "logo": "/dynamic-svg/teamplaceholder?letter=S",
+      "points": "0",
+      "players": [
+        "CatyJones",
+        "Mariam",
+        "Joanass",
+        "Lara",
+        "vih"
+      ]
+    },
+    {
+      "position": "#243",
+      "name": "Messitas",
+      "id": "13144",
+      "link": "/team/13144/messitas",
+      "logo": "/dynamic-svg/teamplaceholder?letter=M",
+      "points": "0",
+      "players": [
+        "khizha",
+        "Flossie",
+        "chjna",
+        "armk4m",
+        "valulu"
+      ]
+    },
+    {
+      "position": "#244",
+      "name": "Brave Bears",
+      "id": "13145",
+      "link": "/team/13145/brave-bears",
+      "logo": "https://img-cdn.hltv.org/teamlogo/MGCPyiOwsP1kP1tX7HauIj.png?ixlib=java-2.1.0&w=50&s=8675bd718c0b17fd51a3852e7b771444",
+      "points": "0",
+      "players": [
+        "elennz",
+        "meL55",
+        "Scarlet",
+        "karolzk",
+        "Mutley"
+      ]
+    }
+  ]
+}

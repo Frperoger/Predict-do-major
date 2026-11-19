@@ -1,0 +1,303 @@
+{
+  "pasta_experimento": "C:\\Users\\roger.peloso\\Desktop\\major\\experimentos\\reconstrucao_20261117T181218Z",
+  "metricas_validacao": [
+    {
+      "modelo": "V1",
+      "entradas": 4,
+      "linhas_validacao": 642,
+      "accuracy": 0.6214953271028038,
+      "roc_auc": 0.6261382214515729,
+      "log_loss": 0.6950171753382692,
+      "brier": 0.2440729120529512
+    },
+    {
+      "modelo": "V1 + ranking",
+      "entradas": 5,
+      "linhas_validacao": 642,
+      "accuracy": 0.616822429906542,
+      "roc_auc": 0.6430220460738172,
+      "log_loss": 0.6708884285195946,
+      "brier": 0.23607480312764625
+    },
+    {
+      "modelo": "V1 + mapas",
+      "entradas": 22,
+      "linhas_validacao": 642,
+      "accuracy": 0.6308411214953271,
+      "roc_auc": 0.644800594500867,
+      "log_loss": 0.7042147267901955,
+      "brier": 0.24389206952113968
+    },
+    {
+      "modelo": "V1 + ranking + mapas",
+      "entradas": 23,
+      "linhas_validacao": 642,
+      "accuracy": 0.6277258566978193,
+      "roc_auc": 0.6456428040624226,
+      "log_loss": 0.681871727281187,
+      "brier": 0.2390244523454955
+    },
+    {
+      "modelo": "Referencia",
+      "entradas": 0,
+      "linhas_validacao": 642,
+      "accuracy": 0.5716510903426791,
+      "roc_auc": 0.5,
+      "log_loss": 0.683427067691916,
+      "brier": 0.24515339336513223
+    },
+    {
+      "modelo": "V1 (simetrico)",
+      "entradas": 4,
+      "linhas_validacao": 642,
+      "accuracy": 0.618380062305296,
+      "roc_auc": 0.6262224424077285,
+      "log_loss": 0.6939168800897036,
+      "brier": 0.2445451919323039
+    },
+    {
+      "modelo": "V1 + ranking (simetrico)",
+      "entradas": 5,
+      "linhas_validacao": 642,
+      "accuracy": 0.6137071651090342,
+      "roc_auc": 0.6433093881595244,
+      "log_loss": 0.6692484705621494,
+      "brier": 0.23569156498019572
+    },
+    {
+      "modelo": "V1 + mapas (simetrico)",
+      "entradas": 22,
+      "linhas_validacao": 642,
+      "accuracy": 0.6370716510903427,
+      "roc_auc": 0.6445974733713153,
+      "log_loss": 0.704966354884127,
+      "brier": 0.2444571282957652
+    },
+    {
+      "modelo": "V1 + ranking + mapas (simetrico)",
+      "entradas": 23,
+      "linhas_validacao": 642,
+      "accuracy": 0.6230529595015576,
+      "roc_auc": 0.6472033688382463,
+      "log_loss": 0.6808228095556673,
+      "brier": 0.23862542891676286
+    },
+    {
+      "modelo": "Referencia (simetrico)",
+      "entradas": 4,
+      "linhas_validacao": 642,
+      "accuracy": 0.42834890965732086,
+      "roc_auc": 0.5,
+      "log_loss": 0.6931471805599454,
+      "brier": 0.25
+    }
+  ],
+  "melhor_log_loss_validacao": "V1 + ranking (simetrico)",
+  "teste_avaliado": true,
+  "metricas_teste_final": [
+    {
+      "modelo": "V1 + ranking (simetrico)",
+      "linhas_teste": 773,
+      "accuracy": 0.5756791720569211,
+      "roc_auc": 0.635045657453766,
+      "log_loss": 0.6864181541745312,
+      "brier": 0.24170044860002263
+    },
+    {
+      "modelo": "V1",
+      "linhas_teste": 773,
+      "accuracy": 0.6351875808538163,
+      "roc_auc": 0.6459647765973325,
+      "log_loss": 0.6930553704430861,
+      "brier": 0.24108917718218195
+    },
+    {
+      "modelo": "Referencia",
+      "linhas_teste": 773,
+      "accuracy": 0.5575679172056921,
+      "roc_auc": 0.5,
+      "log_loss": 0.6865209613826277,
+      "brier": 0.24669414846594695
+    }
+  ],
+  "selecao_previa_sha256": "0b9211e965d6d14e2cdb6980632bc7dcd93bbabcebf70619d9fe6b7a456d6940",
+  "colunas_por_modelo": {
+    "V1": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf"
+    ],
+    "V1 + ranking": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf",
+      "dif_pontos_hltv"
+    ],
+    "V1 + mapas": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf",
+      "dif_jogos_anteriores_ancient",
+      "dif_taxa_vitorias_anteriores_ancient",
+      "dif_jogos_anteriores_anubis",
+      "dif_taxa_vitorias_anteriores_anubis",
+      "dif_jogos_anteriores_dust2",
+      "dif_taxa_vitorias_anteriores_dust2",
+      "dif_jogos_anteriores_inferno",
+      "dif_taxa_vitorias_anteriores_inferno",
+      "dif_jogos_anteriores_mirage",
+      "dif_taxa_vitorias_anteriores_mirage",
+      "dif_jogos_anteriores_nuke",
+      "dif_taxa_vitorias_anteriores_nuke",
+      "dif_jogos_anteriores_overpass",
+      "dif_taxa_vitorias_anteriores_overpass",
+      "dif_jogos_anteriores_train",
+      "dif_taxa_vitorias_anteriores_train",
+      "dif_jogos_anteriores_vertigo",
+      "dif_taxa_vitorias_anteriores_vertigo"
+    ],
+    "V1 + ranking + mapas": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf",
+      "dif_pontos_hltv",
+      "dif_jogos_anteriores_ancient",
+      "dif_taxa_vitorias_anteriores_ancient",
+      "dif_jogos_anteriores_anubis",
+      "dif_taxa_vitorias_anteriores_anubis",
+      "dif_jogos_anteriores_dust2",
+      "dif_taxa_vitorias_anteriores_dust2",
+      "dif_jogos_anteriores_inferno",
+      "dif_taxa_vitorias_anteriores_inferno",
+      "dif_jogos_anteriores_mirage",
+      "dif_taxa_vitorias_anteriores_mirage",
+      "dif_jogos_anteriores_nuke",
+      "dif_taxa_vitorias_anteriores_nuke",
+      "dif_jogos_anteriores_overpass",
+      "dif_taxa_vitorias_anteriores_overpass",
+      "dif_jogos_anteriores_train",
+      "dif_taxa_vitorias_anteriores_train",
+      "dif_jogos_anteriores_vertigo",
+      "dif_taxa_vitorias_anteriores_vertigo"
+    ],
+    "Referencia": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf"
+    ],
+    "V1 (simetrico)": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf"
+    ],
+    "V1 + ranking (simetrico)": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf",
+      "dif_pontos_hltv"
+    ],
+    "V1 + mapas (simetrico)": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf",
+      "dif_jogos_anteriores_ancient",
+      "dif_taxa_vitorias_anteriores_ancient",
+      "dif_jogos_anteriores_anubis",
+      "dif_taxa_vitorias_anteriores_anubis",
+      "dif_jogos_anteriores_dust2",
+      "dif_taxa_vitorias_anteriores_dust2",
+      "dif_jogos_anteriores_inferno",
+      "dif_taxa_vitorias_anteriores_inferno",
+      "dif_jogos_anteriores_mirage",
+      "dif_taxa_vitorias_anteriores_mirage",
+      "dif_jogos_anteriores_nuke",
+      "dif_taxa_vitorias_anteriores_nuke",
+      "dif_jogos_anteriores_overpass",
+      "dif_taxa_vitorias_anteriores_overpass",
+      "dif_jogos_anteriores_train",
+      "dif_taxa_vitorias_anteriores_train",
+      "dif_jogos_anteriores_vertigo",
+      "dif_taxa_vitorias_anteriores_vertigo"
+    ],
+    "V1 + ranking + mapas (simetrico)": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf",
+      "dif_pontos_hltv",
+      "dif_jogos_anteriores_ancient",
+      "dif_taxa_vitorias_anteriores_ancient",
+      "dif_jogos_anteriores_anubis",
+      "dif_taxa_vitorias_anteriores_anubis",
+      "dif_jogos_anteriores_dust2",
+      "dif_taxa_vitorias_anteriores_dust2",
+      "dif_jogos_anteriores_inferno",
+      "dif_taxa_vitorias_anteriores_inferno",
+      "dif_jogos_anteriores_mirage",
+      "dif_taxa_vitorias_anteriores_mirage",
+      "dif_jogos_anteriores_nuke",
+      "dif_taxa_vitorias_anteriores_nuke",
+      "dif_jogos_anteriores_overpass",
+      "dif_taxa_vitorias_anteriores_overpass",
+      "dif_jogos_anteriores_train",
+      "dif_taxa_vitorias_anteriores_train",
+      "dif_jogos_anteriores_vertigo",
+      "dif_taxa_vitorias_anteriores_vertigo"
+    ],
+    "Referencia (simetrico)": [
+      "dif_jogos_anteriores",
+      "dif_vitorias_anteriores",
+      "dif_taxa_vitorias_anteriores",
+      "bestOf"
+    ]
+  },
+  "cobertura_rankings": [
+    {
+      "conjunto": "treino",
+      "linhas": 3775,
+      "ranking_dois_lados": 2462,
+      "percentual_ranking_dois_lados": 65.21854304635761
+    },
+    {
+      "conjunto": "validacao",
+      "linhas": 642,
+      "ranking_dois_lados": 551,
+      "percentual_ranking_dois_lados": 85.82554517133957
+    },
+    {
+      "conjunto": "teste",
+      "linhas": 773,
+      "ranking_dois_lados": 433,
+      "percentual_ranking_dois_lados": 56.01552393272963
+    }
+  ],
+  "auditoria_rankings": {
+    "edicoes": 201,
+    "primeira_edicao": "2023-01-09",
+    "ultima_edicao": "2026-11-09",
+    "linhas_rankings": 49705,
+    "participacoes": 10380,
+    "participacoes_confirmadas": 7156,
+    "percentual_confirmado": 68.94026974951831,
+    "motivos_pendentes": {
+      "escalacao_local_insuficiente": 3016,
+      "nome_sem_candidato_na_edicao": 135,
+      "identidade_reservada_para_investigacao": 39,
+      "escalacao_nao_corrobora_nome": 34
+    },
+    "idade_maxima_dias": 14,
+    "escopo_validade": "Somente a participação conferida; sem extrapolar a identidade para outros períodos.",
+    "limite": "A escalação local foi usada para corroborar a identidade, nunca o resultado; previsão real requer identidade/escalação disponível antes do confronto."
+  },
+  "hash_csv": "c0021014c7117cfbc939f9b936e21219926ea25662244c993a57fded30994c40",
+  "hash_modelo_v1": "c297ea5c9509058cd085cc3c7393ee19176f8e7786bd020a8b72fb695beb6baa",
+  "limite_do_teste": "Avaliação única após fixar a versão. Nenhuma escolha foi alterada com os resultados do teste; novas escolhas exigirão nova evidência fora desta amostra."
+}

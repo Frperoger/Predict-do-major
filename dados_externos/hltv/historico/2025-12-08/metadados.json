@@ -1,0 +1,13 @@
+{
+  "data_solicitada": "2025-12-08",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2025/december/8",
+  "coletado_em_utc": "2026-11-17T18:07:49.260047+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "adaptador_sha256": "5c96026cadf7a993fc227182da7e64ed65cc2899b36fa6b48915e937a5dc4fbe",
+  "transporte": "requests sequencial; parser original HltvTop30Spider",
+  "http_status": 200,
+  "html_sha256": "2b7c7f0ebc347edad6b2207cebf44c7f61ac9eac9b99ac962a4f1698a010356a",
+  "status": "conteudo_validado",
+  "data_recebida": "2025-12-08",
+  "equipes": 254
+}

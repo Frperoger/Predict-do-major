@@ -1,0 +1,13 @@
+{
+  "data_solicitada": "2024-03-25",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2024/march/25",
+  "coletado_em_utc": "2026-11-17T18:02:24.216146+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "adaptador_sha256": "5c96026cadf7a993fc227182da7e64ed65cc2899b36fa6b48915e937a5dc4fbe",
+  "transporte": "requests sequencial; parser original HltvTop30Spider",
+  "http_status": 200,
+  "html_sha256": "72d6525f80abef28faf9f63d3b6db922b92c07225cde8fba6f76a1643422535e",
+  "status": "conteudo_validado",
+  "data_recebida": "2024-03-25",
+  "equipes": 242
+}

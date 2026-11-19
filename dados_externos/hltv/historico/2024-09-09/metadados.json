@@ -1,0 +1,13 @@
+{
+  "data_solicitada": "2024-09-09",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2024/september/9",
+  "coletado_em_utc": "2026-11-17T18:03:52.230319+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "adaptador_sha256": "5c96026cadf7a993fc227182da7e64ed65cc2899b36fa6b48915e937a5dc4fbe",
+  "transporte": "requests sequencial; parser original HltvTop30Spider",
+  "http_status": 200,
+  "html_sha256": "678e1f56d414742c4542dcf7e8c2a507d760ee3b763e4dfe2c0a36f86d952b86",
+  "status": "conteudo_validado",
+  "data_recebida": "2024-09-09",
+  "equipes": 269
+}

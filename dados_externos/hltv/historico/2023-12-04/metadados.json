@@ -1,0 +1,13 @@
+{
+  "data_solicitada": "2023-12-04",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2023/december/4",
+  "coletado_em_utc": "2026-11-17T18:01:25.650365+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "adaptador_sha256": "5c96026cadf7a993fc227182da7e64ed65cc2899b36fa6b48915e937a5dc4fbe",
+  "transporte": "requests sequencial; parser original HltvTop30Spider",
+  "http_status": 200,
+  "html_sha256": "f48500cf1935db20aa94126fa9eb06c27cb2616074c387d73e367386aeaf0830",
+  "status": "conteudo_validado",
+  "data_recebida": "2023-12-04",
+  "equipes": 224
+}

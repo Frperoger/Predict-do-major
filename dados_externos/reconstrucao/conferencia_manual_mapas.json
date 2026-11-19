@@ -1,0 +1,98 @@
+[
+  {
+    "match_id": 10069590,
+    "equipe": "The Mongolz",
+    "map_name": "Train",
+    "jogos_anteriores": 0,
+    "vitorias_anteriores": 0,
+    "conferido": true
+  },
+  {
+    "match_id": 7303724,
+    "equipe": "magic",
+    "map_name": "Vertigo",
+    "jogos_anteriores": 0,
+    "vitorias_anteriores": 0,
+    "conferido": true
+  },
+  {
+    "match_id": 10078739,
+    "equipe": "Betera",
+    "map_name": "Cache",
+    "jogos_anteriores": 0,
+    "vitorias_anteriores": 0,
+    "conferido": true
+  },
+  {
+    "match_id": 2458773,
+    "equipe": "BLUEJAYS",
+    "map_name": "Train",
+    "jogos_anteriores": 1,
+    "vitorias_anteriores": 1,
+    "conferido": true
+  },
+  {
+    "match_id": 2000377,
+    "equipe": "Astralis",
+    "map_name": "Dust2",
+    "jogos_anteriores": 16,
+    "vitorias_anteriores": 6,
+    "conferido": true
+  },
+  {
+    "match_id": 698004,
+    "equipe": "Natus Vincere",
+    "map_name": "Mirage",
+    "jogos_anteriores": 1,
+    "vitorias_anteriores": 1,
+    "conferido": true
+  },
+  {
+    "match_id": 10084600,
+    "equipe": "OG",
+    "map_name": "Inferno",
+    "jogos_anteriores": 14,
+    "vitorias_anteriores": 2,
+    "conferido": true
+  },
+  {
+    "match_id": 10073386,
+    "equipe": "B8 Esports",
+    "map_name": "Vertigo",
+    "jogos_anteriores": 0,
+    "vitorias_anteriores": 0,
+    "conferido": true
+  },
+  {
+    "match_id": 1132429,
+    "equipe": "Bleed Esports",
+    "map_name": "Anubis",
+    "jogos_anteriores": 2,
+    "vitorias_anteriores": 0,
+    "conferido": true
+  },
+  {
+    "match_id": 959458,
+    "equipe": "BIG",
+    "map_name": "Vertigo",
+    "jogos_anteriores": 11,
+    "vitorias_anteriores": 6,
+    "conferido": true
+  },
+  {
+    "match_id": 3272912,
+    "equipe": "Astralis",
+    "map_name": "Dust2",
+    "jogos_anteriores": 27,
+    "vitorias_anteriores": 9,
+    "conferido": true
+  },
+  {
+    "match_id": 7098612,
+    "equipe": "Team Spirit",
+    "map_name": "Train",
+    "jogos_anteriores": 10,
+    "vitorias_anteriores": 8,
+    "conferido": true
+  }
+]

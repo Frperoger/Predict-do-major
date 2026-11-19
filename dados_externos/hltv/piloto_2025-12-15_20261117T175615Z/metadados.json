@@ -1,0 +1,43 @@
+{
+  "coletado_em_utc": "2026-11-17T17:56:15.970024+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "url_api": "http://127.0.0.1:8000/api/v1/teams/rankings/hltv/2025/december/15",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2025/december/15",
+  "data_solicitada": "2025-12-15",
+  "status": "conteudo_validado",
+  "modelo_v1_sha256": "c297ea5c9509058cd085cc3c7393ee19176f8e7786bd020a8b72fb695beb6baa",
+  "api_http_status": 200,
+  "equipes": 251,
+  "api_content_type": "application/json",
+  "resposta_sha256": "3317dc925aba600b8904f2c45e058b4781884f974f2df70bd69f32e184eaa8b6",
+  "data_recebida": "2025-12-15",
+  "amostra": [
+    {
+      "data_publicada": "2025-12-15",
+      "ranking_type": "hltv",
+      "hltv_team_id": 9565,
+      "nome_hltv": "Vitality",
+      "posicao": 1,
+      "pontos": 954,
+      "url_fonte": "https://www.hltv.org/ranking/teams/2025/december/15"
+    },
+    {
+      "data_publicada": "2025-12-15",
+      "ranking_type": "hltv",
+      "hltv_team_id": 8297,
+      "nome_hltv": "FURIA",
+      "posicao": 2,
+      "pontos": 805,
+      "url_fonte": "https://www.hltv.org/ranking/teams/2025/december/15"
+    },
+    {
+      "data_publicada": "2025-12-15",
+      "ranking_type": "hltv",
+      "hltv_team_id": 11283,
+      "nome_hltv": "Falcons",
+      "posicao": 3,
+      "pontos": 585,
+      "url_fonte": "https://www.hltv.org/ranking/teams/2025/december/15"
+    }
+  ]
+}

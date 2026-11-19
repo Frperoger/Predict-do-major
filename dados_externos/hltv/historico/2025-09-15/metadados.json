@@ -1,0 +1,13 @@
+{
+  "data_solicitada": "2025-09-15",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2025/september/15",
+  "coletado_em_utc": "2026-11-17T18:07:04.648647+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "adaptador_sha256": "5c96026cadf7a993fc227182da7e64ed65cc2899b36fa6b48915e937a5dc4fbe",
+  "transporte": "requests sequencial; parser original HltvTop30Spider",
+  "http_status": 200,
+  "html_sha256": "96ec1873f19271e2da95e1a41a8e2fea9485a761b7bcdbb2c3fefa477c261b72",
+  "status": "conteudo_validado",
+  "data_recebida": "2025-09-15",
+  "equipes": 250
+}

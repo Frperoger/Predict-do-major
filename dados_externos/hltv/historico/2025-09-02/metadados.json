@@ -1,0 +1,12 @@
+{
+  "data_solicitada": "2025-09-02",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2025/september/2",
+  "coletado_em_utc": "2026-11-17T18:11:46.115989+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "transporte": "requests sequencial; parser original HltvTop30Spider; descoberta pelos links entre publicacoes",
+  "http_status": 200,
+  "html_sha256": "3aba38d201d2472efc06c2a0908a966e70e278c4ff0cf92bf98458508b1ad32d",
+  "status": "conteudo_validado",
+  "data_recebida": "2025-09-02",
+  "equipes": 263
+}

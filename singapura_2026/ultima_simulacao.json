@@ -1,0 +1,123 @@
+{
+  "evento": "PGL Major Singapore 2026",
+  "data_previsao": "2026-11-17",
+  "dados_locais_ate": "2026-11-14",
+  "ranking_publicado": "2026-11-16",
+  "modelo": "V1 + ranking (simetrico)",
+  "pasta_modelo": "C:\\Users\\roger.peloso\\Desktop\\major\\experimentos\\reconstrucao_20261117T181218Z",
+  "pasta_simulacao": "C:\\Users\\roger.peloso\\Desktop\\major\\singapura_2026\\simulacao_20261117T181507Z",
+  "pasta_fontes": "C:\\Users\\roger.peloso\\Desktop\\major\\singapura_2026\\fontes_20261117T180933Z",
+  "simulacoes": 20000,
+  "semente_aleatoria": 25,
+  "equipes_com_identidade_local_corroborada": 22,
+  "equipes_com_ranking_corroborado": 32,
+  "vocabulario_mapas_treino": [
+    "Ancient",
+    "Anubis",
+    "Dust2",
+    "Inferno",
+    "Mirage",
+    "Nuke",
+    "Overpass",
+    "Train",
+    "Vertigo"
+  ],
+  "invariantes_conferidos": [
+    "32 participantes distintos",
+    "campanhas iguais e nenhuma revanche dentro de cada suíço",
+    "33 séries e 8 classificados por suíço",
+    "etapas 1/2: avanço e eliminação em MD3; etapa 3 toda MD3",
+    "8/4/2/1 equipes nos playoffs, semifinal, final e título",
+    "probabilidades complementares ao inverter as equipes",
+    "campeão determinístico no caso de controle"
+  ],
+  "hipoteses": [
+    "Históricos congelados antes do evento; resultados simulados não alteram as entradas.",
+    "Séries modeladas diretamente por bestOf, sem usar mapas do veto futuro.",
+    "Identidade requer nome compatível e três jogadores corroborantes; ausências permanecem explícitas.",
+    "Probabilidades refletem o modelo, a amostra e as regras arquivadas; intervalo de Monte Carlo não mede erro do modelo.",
+    "Dados locais param em 14/11; partidas posteriores a essa data não foram acrescentadas."
+  ],
+  "top_5": [
+    {
+      "nome_oficial": "FURIA",
+      "ser_campea": 0.3317
+    },
+    {
+      "nome_oficial": "MOUZ",
+      "ser_campea": 0.2391
+    },
+    {
+      "nome_oficial": "Team Spirit",
+      "ser_campea": 0.1862
+    },
+    {
+      "nome_oficial": "Team Vitality",
+      "ser_campea": 0.1376
+    },
+    {
+      "nome_oficial": "Team Falcons",
+      "ser_campea": 0.02945
+    }
+  ],
+  "primeira_rodada": [
+    {
+      "equipe_a": "ninjas_in_pyjamas",
+      "equipe_b": "m80",
+      "bestOf": 1,
+      "prob_vitoria_a": 0.5440081608007058,
+      "prob_vitoria_b": 0.4559918391992942
+    },
+    {
+      "equipe_a": "pvision",
+      "equipe_b": "dendele",
+      "bestOf": 1,
+      "prob_vitoria_a": 0.5605884755247499,
+      "prob_vitoria_b": 0.4394115244752501
+    },
+    {
+      "equipe_a": "heroic",
+      "equipe_b": "imperial_esports",
+      "bestOf": 1,
+      "prob_vitoria_a": 0.5212968603809021,
+      "prob_vitoria_b": 0.47870313961909794
+    },
+    {
+      "equipe_a": "faze_clan",
+      "equipe_b": "wildcard",
+      "bestOf": 1,
+      "prob_vitoria_a": 0.5252024757399627,
+      "prob_vitoria_b": 0.4747975242600373
+    },
+    {
+      "equipe_a": "liquid",
+      "equipe_b": "gosh",
+      "bestOf": 1,
+      "prob_vitoria_a": 0.5429491092339882,
+      "prob_vitoria_b": 0.4570508907660118
+    },
+    {
+      "equipe_a": "eternal_fire",
+      "equipe_b": "flyquest",
+      "bestOf": 1,
+      "prob_vitoria_a": 0.5265036930244442,
+      "prob_vitoria_b": 0.4734963069755558
+    },
+    {
+      "equipe_a": "100_thieves",
+      "equipe_b": "chinggis_warriors",
+      "bestOf": 1,
+      "prob_vitoria_a": 0.5173886661135128,
+      "prob_vitoria_b": 0.48261133388648725
+    },
+    {
+      "equipe_a": "9z_globant",
+      "equipe_b": "lynn_vision_gaming",
+      "bestOf": 1,
+      "prob_vitoria_a": 0.5256362533465109,
+      "prob_vitoria_b": 0.4743637466534891
+    }
+  ],
+  "modelo_v1_sha256": "c297ea5c9509058cd085cc3c7393ee19176f8e7786bd020a8b72fb695beb6baa",
+  "selecao_modelo_sha256": "0b9211e965d6d14e2cdb6980632bc7dcd93bbabcebf70619d9fe6b7a456d6940"
+}

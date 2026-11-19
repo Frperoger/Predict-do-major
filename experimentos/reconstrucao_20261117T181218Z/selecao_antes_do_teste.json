@@ -1,0 +1,22 @@
+{
+  "modelo": "V1 + ranking (simetrico)",
+  "regra": "Entre versões simétricas, menor Log Loss na validação; Brier desempata. A referência simétrica (50%) também participa. Versões originais são referências de comparação.",
+  "entradas": [
+    "dif_jogos_anteriores",
+    "dif_vitorias_anteriores",
+    "dif_taxa_vitorias_anteriores",
+    "bestOf",
+    "dif_pontos_hltv"
+  ],
+  "ajuste": "Parâmetros e transformações aprendidos somente no treino; sem retreino após seleção.",
+  "fixado_em_utc": "2026-11-17T18:12:18.469968+00:00",
+  "teste_avaliado_neste_momento": false,
+  "hash_csv": "c0021014c7117cfbc939f9b936e21219926ea25662244c993a57fded30994c40",
+  "hash_modelo_v1": "c297ea5c9509058cd085cc3c7393ee19176f8e7786bd020a8b72fb695beb6baa",
+  "regras": {
+    "ranking": "Edição estritamente anterior ao dia; idade máxima 14 dias; ausência não vira rank zero.",
+    "identidade": "Nome compatível e pelo menos três jogadores em comum com a edição anterior; validade restrita à participação.",
+    "mapas": "Somente histórico anterior ao horário; vocabulário aprendido no treino, sem usar veto/mapas do confronto atual.",
+    "ordem_equipes": "Média de p(A,B) e 1-p(B,A); bestOf mantido e todas as diferenças invertidas."
+  }
+}

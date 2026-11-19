@@ -1,0 +1,51 @@
+{
+  "linhas_mapas_brutas": 7850,
+  "mapas_utilizaveis": 7806,
+  "mapas_rejeitados": 44,
+  "vocabulario_aprendido_no_treino": [
+    "Ancient",
+    "Anubis",
+    "Dust2",
+    "Inferno",
+    "Mirage",
+    "Nuke",
+    "Overpass",
+    "Train",
+    "Vertigo"
+  ],
+  "mapas_observados_na_base": [
+    "Ancient",
+    "Anubis",
+    "Cache",
+    "Dust2",
+    "Inferno",
+    "Mirage",
+    "Nuke",
+    "Overpass",
+    "Train",
+    "Vertigo"
+  ],
+  "linhas_perfis": 103800,
+  "atributos": [
+    "dif_jogos_anteriores_ancient",
+    "dif_taxa_vitorias_anteriores_ancient",
+    "dif_jogos_anteriores_anubis",
+    "dif_taxa_vitorias_anteriores_anubis",
+    "dif_jogos_anteriores_dust2",
+    "dif_taxa_vitorias_anteriores_dust2",
+    "dif_jogos_anteriores_inferno",
+    "dif_taxa_vitorias_anteriores_inferno",
+    "dif_jogos_anteriores_mirage",
+    "dif_taxa_vitorias_anteriores_mirage",
+    "dif_jogos_anteriores_nuke",
+    "dif_taxa_vitorias_anteriores_nuke",
+    "dif_jogos_anteriores_overpass",
+    "dif_taxa_vitorias_anteriores_overpass",
+    "dif_jogos_anteriores_train",
+    "dif_taxa_vitorias_anteriores_train",
+    "dif_jogos_anteriores_vertigo",
+    "dif_taxa_vitorias_anteriores_vertigo"
+  ],
+  "exemplos_conferidos_por_soma_direta": 12,
+  "observacao": "Históricos por mapa antes do confronto; não representam o pool vigente nem uma previsão após o veto. Cache é auditado, mas não entra nas entradas porque apareceu somente após o treino."
+}

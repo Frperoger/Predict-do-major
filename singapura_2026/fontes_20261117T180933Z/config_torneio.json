@@ -1,0 +1,748 @@
+{
+  "evento": "PGL Major Singapore 2026",
+  "fonte_oficial": "https://www.pglesports.com/cs2/pgl-major-singapore-2026/",
+  "arquivo_dados_oficial": "https://www.pglesports.com/_next/static/chunks/app/cs2/pgl-major-singapore-2026/page-d09b005630e926af.js",
+  "consultado_em_utc": "2026-11-17T18:09:33.858167+00:00",
+  "data_previsao": "2026-11-17",
+  "inicio_evento": "2026-11-24",
+  "fim_evento": "2026-12-13",
+  "ranking_publicado": "2026-11-16",
+  "participantes": [
+    {
+      "chave": "ninjas_in_pyjamas",
+      "nome_oficial": "Ninjas in Pyjamas",
+      "etapa_entrada": 1,
+      "seed_entrada": 1,
+      "jogadores": [
+        "Krimbo",
+        "adamb",
+        "stavn",
+        "sjuush",
+        "xKacpersky"
+      ],
+      "reserva": "Xizt"
+    },
+    {
+      "chave": "pvision",
+      "nome_oficial": "PVISION",
+      "etapa_entrada": 1,
+      "seed_entrada": 2,
+      "jogadores": [
+        "Jame",
+        "zweih",
+        "xiELO",
+        "FL1T",
+        "HObbit"
+      ],
+      "reserva": "slaxejezzz"
+    },
+    {
+      "chave": "heroic",
+      "nome_oficial": "HEROIC",
+      "etapa_entrada": 1,
+      "seed_entrada": 3,
+      "jogadores": [
+        "nilo",
+        "MartinezSa",
+        "Chr1zN",
+        "susp",
+        "Brollan"
+      ],
+      "reserva": "Snappi"
+    },
+    {
+      "chave": "faze_clan",
+      "nome_oficial": "FaZe Clan",
+      "etapa_entrada": 1,
+      "seed_entrada": 4,
+      "jogadores": [
+        "Twistzz",
+        "frozen",
+        "jcobbb",
+        "Neityu",
+        "JBOEN"
+      ],
+      "reserva": "GruBy"
+    },
+    {
+      "chave": "liquid",
+      "nome_oficial": "Team Liquid",
+      "etapa_entrada": 1,
+      "seed_entrada": 5,
+      "jogadores": [
+        "NAF-FLY",
+        "EliGE",
+        "JT",
+        "Jorko",
+        "malbsMd"
+      ],
+      "reserva": "flashie"
+    },
+    {
+      "chave": "eternal_fire",
+      "nome_oficial": "Eternal Fire",
+      "etapa_entrada": 1,
+      "seed_entrada": 6,
+      "jogadores": [
+        "MisteM",
+        "soulfly",
+        "jottAAA",
+        "Kvem",
+        "regali"
+      ],
+      "reserva": "Hydro2K"
+    },
+    {
+      "chave": "100_thieves",
+      "nome_oficial": "100 Thieves",
+      "etapa_entrada": 1,
+      "seed_entrada": 7,
+      "jogadores": [
+        "dev1ce",
+        "poiii",
+        "Gizmy",
+        "rain",
+        "sirah"
+      ],
+      "reserva": "gla1ve"
+    },
+    {
+      "chave": "9z_globant",
+      "nome_oficial": "9z Globant",
+      "etapa_entrada": 1,
+      "seed_entrada": 8,
+      "jogadores": [
+        "max",
+        "HUASOPEEK",
+        "luchov",
+        "meyern",
+        "dgt"
+      ],
+      "reserva": "history"
+    },
+    {
+      "chave": "m80",
+      "nome_oficial": "M80",
+      "etapa_entrada": 1,
+      "seed_entrada": 9,
+      "jogadores": [
+        "JBa",
+        "s1n",
+        "Lake",
+        "Swisher",
+        "slaxz-"
+      ],
+      "reserva": "M0nstr"
+    },
+    {
+      "chave": "dendele",
+      "nome_oficial": "DENDELE",
+      "etapa_entrada": 1,
+      "seed_entrada": 10,
+      "jogadores": [
+        "koala",
+        "doc",
+        "gafolo",
+        "rdnzao",
+        "maxxkor"
+      ],
+      "reserva": "D10S"
+    },
+    {
+      "chave": "imperial_esports",
+      "nome_oficial": "Imperial Esports",
+      "etapa_entrada": 1,
+      "seed_entrada": 11,
+      "jogadores": [
+        "VINI",
+        "chelo",
+        "noway",
+        "decenty",
+        "saadzin"
+      ],
+      "reserva": "tacitus"
+    },
+    {
+      "chave": "wildcard",
+      "nome_oficial": "Wildcard",
+      "etapa_entrada": 1,
+      "seed_entrada": 12,
+      "jogadores": [
+        "HexT",
+        "reck",
+        "Cxzi",
+        "nEMANHA",
+        "fr3nd"
+      ],
+      "reserva": "splawik"
+    },
+    {
+      "chave": "gosh",
+      "nome_oficial": "GOSH",
+      "etapa_entrada": 1,
+      "seed_entrada": 13,
+      "jogadores": [
+        "s1mple",
+        "asap",
+        "Senzu",
+        "Magisk",
+        "mzinho"
+      ],
+      "reserva": "BnTeT"
+    },
+    {
+      "chave": "flyquest",
+      "nome_oficial": "FlyQuest",
+      "etapa_entrada": 1,
+      "seed_entrada": 14,
+      "jogadores": [
+        "INS",
+        "jks",
+        "Vexite",
+        "aliStair",
+        "nettik"
+      ],
+      "reserva": "AZR"
+    },
+    {
+      "chave": "chinggis_warriors",
+      "nome_oficial": "Chinggis Warriors",
+      "etapa_entrada": 1,
+      "seed_entrada": 15,
+      "jogadores": [
+        "ROUX",
+        "sk0R",
+        "cool4st",
+        "fury5k",
+        "tikuak"
+      ],
+      "reserva": "Redka"
+    },
+    {
+      "chave": "lynn_vision_gaming",
+      "nome_oficial": "Lynn Vision Gaming",
+      "etapa_entrada": 1,
+      "seed_entrada": 16,
+      "jogadores": [
+        "westmelon",
+        "z4KR",
+        "Starry",
+        "EmiliaQAQ",
+        "C4LLM3SU3"
+      ],
+      "reserva": "GUM"
+    },
+    {
+      "chave": "fut_esports",
+      "nome_oficial": "FUT ESPORTS",
+      "etapa_entrada": 2,
+      "seed_entrada": 1,
+      "jogadores": [
+        "Krabeni",
+        "dziugss",
+        "dem0n",
+        "xfl0ud",
+        "cmtry"
+      ],
+      "reserva": "SunPayus"
+    },
+    {
+      "chave": "nemiga",
+      "nome_oficial": "Nemiga Gaming",
+      "etapa_entrada": 2,
+      "seed_entrada": 2,
+      "jogadores": [
+        "robo",
+        "Xant3r",
+        "khaN",
+        "SYPH0",
+        "KaiR0N-"
+      ],
+      "reserva": "boX"
+    },
+    {
+      "chave": "g2_esports",
+      "nome_oficial": "G2 Esports",
+      "etapa_entrada": 2,
+      "seed_entrada": 3,
+      "jogadores": [
+        "huNter-",
+        "MATYS",
+        "r1nkle",
+        "NertZ",
+        "HeavyGod"
+      ],
+      "reserva": "tAk"
+    },
+    {
+      "chave": "1win",
+      "nome_oficial": "The One",
+      "etapa_entrada": 2,
+      "seed_entrada": 4,
+      "jogadores": [
+        "nafany",
+        "ArtFr0st",
+        "Ax1Le",
+        "BELCHONOKK",
+        "fame"
+      ],
+      "reserva": "xeedo"
+    },
+    {
+      "chave": "natus_vincere",
+      "nome_oficial": "Natus Vincere",
+      "etapa_entrada": 2,
+      "seed_entrada": 5,
+      "jogadores": [
+        "w0nderful",
+        "Aleksib",
+        "b1t",
+        "iM",
+        "makazze"
+      ],
+      "reserva": "FAZERY"
+    },
+    {
+      "chave": "astralis",
+      "nome_oficial": "Astralis",
+      "etapa_entrada": 2,
+      "seed_entrada": 6,
+      "jogadores": [
+        "phzy",
+        "Staehr",
+        "ryu",
+        "siuhy",
+        "jabbi"
+      ],
+      "reserva": "Anlelele"
+    },
+    {
+      "chave": "the_mongolz",
+      "nome_oficial": "The MongolZ",
+      "etapa_entrada": 2,
+      "seed_entrada": 7,
+      "jogadores": [
+        "bLitz",
+        "Techno4K",
+        "910",
+        "cobrazera",
+        "nin9"
+      ],
+      "reserva": "maaRaa"
+    },
+    {
+      "chave": "mibr",
+      "nome_oficial": "MIBR",
+      "etapa_entrada": 2,
+      "seed_entrada": 8,
+      "jogadores": [
+        "LNZ",
+        "tomaszin",
+        "insani",
+        "venomzera",
+        "nqz"
+      ],
+      "reserva": "LETN1"
+    },
+    {
+      "chave": "mouz",
+      "nome_oficial": "MOUZ",
+      "etapa_entrada": 3,
+      "seed_entrada": 1,
+      "jogadores": [
+        "xelex",
+        "PR",
+        "Spinx",
+        "torzsi",
+        "xertioN"
+      ],
+      "reserva": "Nikodeon"
+    },
+    {
+      "chave": "vitality",
+      "nome_oficial": "Team Vitality",
+      "etapa_entrada": 3,
+      "seed_entrada": 2,
+      "jogadores": [
+        "jL",
+        "ZywOo",
+        "flameZ",
+        "mezii",
+        "ropz"
+      ],
+      "reserva": "apEX"
+    },
+    {
+      "chave": "furia",
+      "nome_oficial": "FURIA",
+      "etapa_entrada": 3,
+      "seed_entrada": 3,
+      "jogadores": [
+        "yuurih",
+        "KSCERATO",
+        "FalleN",
+        "molodoy",
+        "YEKINDAR"
+      ],
+      "reserva": "sidde"
+    },
+    {
+      "chave": "aurora_gaming",
+      "nome_oficial": "Aurora Gaming",
+      "etapa_entrada": 3,
+      "seed_entrada": 4,
+      "jogadores": [
+        "XANTARES",
+        "woxic",
+        "Wicadia",
+        "Jimpphat",
+        "kyxsan"
+      ],
+      "reserva": "ash"
+    },
+    {
+      "chave": "spirit",
+      "nome_oficial": "Team Spirit",
+      "etapa_entrada": 3,
+      "seed_entrada": 5,
+      "jogadores": [
+        "magixx",
+        "donk",
+        "zont1x",
+        "sh1ro",
+        "tN1R"
+      ],
+      "reserva": "S0tF1k"
+    },
+    {
+      "chave": "betboom_team",
+      "nome_oficial": "BB TEAM",
+      "etapa_entrada": 3,
+      "seed_entrada": 6,
+      "jogadores": [
+        "Magnojez",
+        "Boombl4",
+        "S1ren",
+        "zorte",
+        "d1Ledez"
+      ],
+      "reserva": "dmrr"
+    },
+    {
+      "chave": "falcons",
+      "nome_oficial": "Team Falcons",
+      "etapa_entrada": 3,
+      "seed_entrada": 7,
+      "jogadores": [
+        "NiKo",
+        "karrigan",
+        "m0NESY",
+        "TeSeS",
+        "kyousuke"
+      ],
+      "reserva": "Nucleonz"
+    },
+    {
+      "chave": "legacy",
+      "nome_oficial": "Legacy",
+      "etapa_entrada": 3,
+      "seed_entrada": 8,
+      "jogadores": [
+        "arT",
+        "latto",
+        "dumau",
+        "try",
+        "n1ssim"
+      ],
+      "reserva": "ksloks"
+    }
+  ],
+  "etapas": {
+    "1": [
+      "ninjas_in_pyjamas",
+      "pvision",
+      "heroic",
+      "faze_clan",
+      "liquid",
+      "eternal_fire",
+      "100_thieves",
+      "9z_globant",
+      "m80",
+      "dendele",
+      "imperial_esports",
+      "wildcard",
+      "gosh",
+      "flyquest",
+      "chinggis_warriors",
+      "lynn_vision_gaming"
+    ],
+    "2": [
+      "fut_esports",
+      "nemiga",
+      "g2_esports",
+      "1win",
+      "natus_vincere",
+      "astralis",
+      "the_mongolz",
+      "mibr"
+    ],
+    "3": [
+      "mouz",
+      "vitality",
+      "furia",
+      "aurora_gaming",
+      "spirit",
+      "betboom_team",
+      "falcons",
+      "legacy"
+    ]
+  },
+  "tabela_prioridade_grupos_seis": [
+    [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        5
+      ]
+    ],
+    [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  ],
+  "regras": {
+    "avanca_com_vitorias": 3,
+    "eliminado_com_derrotas": 3,
+    "rodadas_maximas_suico": 5,
+    "etapas_1_2": "BO1; avanço ou eliminação em BO3",
+    "etapa_3": "todas as séries em BO3",
+    "desempates": [
+      "campanha",
+      "Buchholz",
+      "seed inicial"
+    ],
+    "evitar_revanche_na_mesma_etapa": true,
+    "seeds_nova_etapa": "oito convidados seguidos dos oito classificados, na ordem final da etapa anterior",
+    "quartas": [
+      [
+        1,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "eliminatorias": "quartas, semifinais e terceiro lugar BO3; final BO5"
+  },
+  "commit_parser_hltv": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "pagina_sha256": "47747ddc0fd534944d1d8a320c860d0c504b3c81c50b43332eee1fe18bf34c89",
+  "dados_oficiais_sha256": "0c96289f810ffc5c4dee5e69d0e6cccee4eca20c31477e9f5fd34392c3049685"
+}

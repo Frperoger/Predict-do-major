@@ -1,0 +1,13 @@
+{
+  "data_solicitada": "2026-11-02",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2026/november/2",
+  "coletado_em_utc": "2026-11-17T18:10:41.511117+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "adaptador_sha256": "5c96026cadf7a993fc227182da7e64ed65cc2899b36fa6b48915e937a5dc4fbe",
+  "transporte": "requests sequencial; parser original HltvTop30Spider",
+  "http_status": 200,
+  "html_sha256": "acfa408779c59fe1c81e93784e5b765ab891795d64b1d5d0c43f68f7dae599e9",
+  "status": "conteudo_validado",
+  "data_recebida": "2026-11-02",
+  "equipes": 250
+}

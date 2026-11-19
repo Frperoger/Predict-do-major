@@ -1,0 +1,13 @@
+{
+  "data_solicitada": "2026-03-16",
+  "url_fonte": "https://www.hltv.org/ranking/teams/2026/march/16",
+  "coletado_em_utc": "2026-11-17T18:08:39.716809+00:00",
+  "commit_coletor": "a1102b131e4d6d2d7d10335e490aebd736248a59",
+  "adaptador_sha256": "5c96026cadf7a993fc227182da7e64ed65cc2899b36fa6b48915e937a5dc4fbe",
+  "transporte": "requests sequencial; parser original HltvTop30Spider",
+  "http_status": 200,
+  "html_sha256": "8a88a64a855ae7c7b671771941cc02342dbb88b534b18e333d8170dff123e240",
+  "status": "conteudo_validado",
+  "data_recebida": "2026-03-16",
+  "equipes": 258
+}
